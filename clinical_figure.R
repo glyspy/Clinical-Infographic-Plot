@@ -1,14 +1,11 @@
 #create infographic for the clinical data of the cohorts
 
-library(TCGAbiolinks)
 library(dplyr)
 library(ggplot2)
 library(ggpubr)
 library(gridExtra)
 library(scales)
 library(patchwork)
-library(survival)
-library(survminer)
 
 # run this in every cancer project and then import the .csv files
 # CHOL_clin <-data.frame(row.names = colnames(tcga_CHOLprim),
@@ -97,13 +94,15 @@ sex_plots <- ggplot(cancers_sex, aes(x = project, y = percentage, fill = sex)) +
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
   scale_fill_manual(values = c("#F8AFA8", "#46ACC8", "#D9D0D3"),
-                    labels = c("Female", "Male", "Not Reported")) +
-  ggtitle("Sex") + labs(y="Percentage") +
+                    labels = c("Female", "Male", "Not Reported"),
+                    "Sex") +
+  ggtitle("Sex") + labs(y="Percentage", x="") + 
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
-
-# ETHNICITY
-cancers_ethnicity <- cancers_clin %>%
+  
+  
+  # ETHNICITY
+  cancers_ethnicity <- cancers_clin %>%
   group_by(project, ethnicity) %>%
   summarize(count = n()) %>%
   ungroup() %>%
@@ -116,9 +115,11 @@ ethnicity_plots <- ggplot(cancers_ethnicity, aes(x = project, y = percentage, fi
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
   scale_fill_manual(values = c("#90D4CC", "#FDD262", "#D9D0D3"),
-                    labels = c("Hispanic or Latino", "Not Hispanic or Latino", "Not Reported")) +
+                    labels = c("Hispanic or Latino", "Not Hispanic or Latino", "Not Reported"),
+                    "Ethnicity") +
   ggtitle("Ethnicity") +
-  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y = "Percentage") +
+  scale_x_discrete(labels = NULL, breaks = NULL) + 
+  labs(x = "", y = "Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -137,9 +138,11 @@ vital_plots <- ggplot(cancers_vital, aes(x = project, y = percentage, fill = vit
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
   scale_fill_manual(values = c("#7fc9a9","#0B775E", "#D9D0D3"),
-                    labels = c("Alive", "Dead", "Not reported")) +
+                    labels = c("Alive", "Dead", "Not reported"),
+                    "Vital Status") +
   ggtitle("Vital Status") +
-  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y="Percentage") +
+  #scale_x_discrete(labels = NULL, breaks = NULL) + 
+  labs(x = "", y="Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -158,9 +161,11 @@ mal_plots <- ggplot(cancers_mal, aes(x = project, y = percentage, fill = prior_m
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
   scale_fill_manual(values = c("#899DA4","#C93312", "#D9D0D3"),
-                    labels = c("Yes", "No", "Not reported")) +
+                    labels = c("Yes", "No", "Not reported"),
+                    "Prior Malignancy") +
   ggtitle("Prior Malignancy") +
-  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y ="Percentage") +
+  scale_x_discrete(labels = NULL, breaks = NULL) + 
+  labs(x = "", y ="Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -188,23 +193,85 @@ months_folowup_plots <- ggplot(cancers_clin, aes(x = project, y = months_to_last
                      breaks = c(0,100,200)) 
 
 
-# SURVIVAL
-# create survival data
 
 
 # Combine the plots using patchwork and adjust the layout
 combined_plots <- 
-  sex_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right") + 
-  ethnicity_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right") +
-  age_diagn_plots + theme_pubclean() + labs_pubr() +
-  vital_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right") + 
-  mal_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right") +
-  months_folowup_plots + theme_pubclean() +labs_pubr() +
+  sex_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
+                                                     plot.title = element_text(hjust = 0.5),
+                                                     legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
+  ethnicity_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
+                                                           plot.title = element_text(hjust = 0.5),
+                                                           legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
+  age_diagn_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
+                                                           plot.title = element_text(hjust = 0.5),
+                                                           legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
+  vital_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
+                                                       plot.title = element_text(hjust = 0.5),
+                                                       legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
+  mal_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
+                                                     plot.title = element_text(hjust = 0.5),
+                                                     legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
+  months_folowup_plots + theme_pubclean() +labs_pubr() + theme(legend.position = "right",
+                                                               plot.title = element_text(hjust = 0.5),
+                                                               legend.key.size = unit(0.5, "cm")) +
+  font("title", 19) +
+  font("ylab", size = 15) +
+  font("xlab", size = 17) +
+  font("y.text", size = 20) +
+  font("x.text", size = 15) +
+  font("legend.title", size = 14) +
+  font("legend.text", size = 12) +
   plot_layout(guides = "collect",
-                ncol = 6) +
-  plot_spacer()
-  
-combined_plots
+              ncol = 3,
+              nrow = 2
+              # widths = c(5,5,5,5,5,5),
+              # heights = c(25),
+              # align = "center"
+  )
 
 
+ggsave(filename = "clinical_info.pdf",
+       plot = combined_plots,
+       width = 12,
+       height = 6)
 
+
+print(combined_plots)
+
+dev.off()
