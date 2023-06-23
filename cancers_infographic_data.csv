@@ -1,0 +1,816 @@
+"","X","sample_type","pathologic_stage","age_diagnosis","days_to_last_follow_up","vital_status","days_to_death","prior_malignancy","histologic_subtype","site_of_resection_or_biopsy","sex","ethnicity","project","months_to_last_follow_up"
+"1","TCGA-W5-AA2X-01A-11R-A41I-07","Primary Tumor","Stage IVB",67,NA,"Dead","271","no","hilar/perihilar","Extrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"3","TCGA-W5-AA33-01A-11R-A41I-07","Primary Tumor","Stage I",60,1449,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",48.3
+"4","TCGA-ZH-A8Y2-01A-11R-A41I-07","Primary Tumor","Stage I",59,NA,"Dead","701","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"5","TCGA-ZH-A8Y6-01A-11R-A41I-07","Primary Tumor","Stage I",41,519,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",17.3
+"6","TCGA-W5-AA2Z-01A-11R-A41I-07","Primary Tumor","Stage II",29,1614,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",53.8
+"8","TCGA-W5-AA2Q-01A-11R-A41I-07","Primary Tumor","Stage II",68,50,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",1.66666666666667
+"9","TCGA-4G-AAZT-01A-11R-A41I-07","Primary Tumor","Stage I",62,420,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",14
+"11","TCGA-W5-AA30-01A-31R-A41I-07","Primary Tumor","Stage I",82,1153,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",38.4333333333333
+"12","TCGA-3X-AAV9-01A-72R-A41I-07","Primary Tumor","Stage I",72,NA,"Dead","339","yes","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"13","TCGA-W6-AA0S-01A-11R-A41I-07","Primary Tumor","Stage I",46,808,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","hispanic or latino","CHOL",26.9333333333333
+"14","TCGA-4G-AAZO-01A-12R-A41I-07","Primary Tumor","Stage II",71,1177,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",39.2333333333333
+"16","TCGA-ZU-A8S4-01A-11R-A41I-07","Primary Tumor","Stage I",52,NA,"Dead","98","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"17","TCGA-W5-AA39-01A-11R-A41I-07","Primary Tumor","Stage II",81,NA,"Dead","170","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"18","TCGA-WD-A7RX-01A-12R-A41I-07","Primary Tumor","Stage II",71,NA,"Dead","21","no","intrahepatic","Liver","female","hispanic or latino","CHOL",NA
+"19","TCGA-W5-AA2O-01A-11R-A41I-07","Primary Tumor","Stage I",57,NA,"Dead","640","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"20","TCGA-W5-AA2W-01A-11R-A41I-07","Primary Tumor","Stage IVA",31,NA,"Dead","924","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"22","TCGA-W5-AA2G-01A-11R-A41I-07","Primary Tumor","Stage I",62,1976,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",65.8666666666667
+"24","TCGA-W5-AA31-01A-11R-A41I-07","Primary Tumor","Stage I",71,10,"Alive","Not Reported","yes","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",0.333333333333333
+"25","TCGA-3X-AAVB-01A-31R-A41I-07","Primary Tumor","Stage IVB",70,402,"Alive","Not Reported","no","distal","Intrahepatic bile duct","female","not hispanic or latino","CHOL",13.4
+"26","TCGA-W5-AA2I-01A-32R-A41I-07","Primary Tumor","Stage I",66,NA,"Dead","1939","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"28","TCGA-W5-AA38-01A-11R-A41I-07","Primary Tumor","Stage I",55,1471,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",49.0333333333333
+"29","TCGA-ZH-A8Y8-01A-51R-A41I-07","Primary Tumor","Stage I",73,602,"Alive","Not Reported","yes","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",20.0666666666667
+"30","TCGA-YR-A95A-01A-12R-A41I-07","Primary Tumor","Stage IV",52,NA,"Dead","26","no","hilar/perihilar","Extrahepatic bile duct","male","Not Reported","CHOL",NA
+"31","TCGA-W5-AA2T-01A-12R-A41I-07","Primary Tumor","Stage II",64,NA,"Dead","1220","yes","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"32","TCGA-ZH-A8Y4-01A-11R-A41I-07","Primary Tumor","Stage I",58,NA,"Dead","741","yes","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",NA
+"33","TCGA-ZH-A8Y5-01A-11R-A41I-07","Primary Tumor","Stage IVB",69,1229,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",40.9666666666667
+"34","TCGA-W5-AA2U-01A-11R-A41I-07","Primary Tumor","Stage I",78,NA,"Dead","627","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"37","TCGA-W5-AA34-01A-11R-A41I-07","Primary Tumor","Stage I",75,168,"Dead","555","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",5.6
+"38","TCGA-ZH-A8Y1-01A-11R-A41I-07","Primary Tumor","Stage IVA",74,NA,"Dead","385","yes","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"39","TCGA-3X-AAVE-01A-11R-A41I-07","Primary Tumor","Stage II",60,650,"Alive","Not Reported","no","intrahepatic","Intrahepatic bile duct","male","not hispanic or latino","CHOL",21.6666666666667
+"40","TCGA-W5-AA36-01A-11R-A41I-07","Primary Tumor","Stage IV",51,NA,"Dead","1402","no","Not Reported","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"41","TCGA-W5-AA2H-01A-31R-A41I-07","Primary Tumor","Stage III",70,1077,"Alive","Not Reported","no","distal","Intrahepatic bile duct","female","not hispanic or latino","CHOL",35.9
+"42","TCGA-3X-AAVC-01A-21R-A41I-07","Primary Tumor","Stage I",72,709,"Alive","Not Reported","no","Not Reported","Gallbladder","female","not hispanic or latino","CHOL",23.6333333333333
+"43","TCGA-3X-AAVA-01A-11R-A41I-07","Primary Tumor","Stage II",50,NA,"Dead","445","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",NA
+"44","TCGA-ZD-A8I3-01A-11R-A41I-07","Primary Tumor","Stage II",73,0,"Dead","169","no","intrahepatic","Intrahepatic bile duct","female","not hispanic or latino","CHOL",0
+"1100","TCGA-KL-8337-01A-11R-2315-07","Primary Tumor","Stage II",26,1364,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",45.4666666666667
+"2","TCGA-KM-8441-01A-11R-2315-07","Primary Tumor","Stage I",61,876,"Alive","Not Reported","yes","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",29.2
+"310","TCGA-KO-8414-01A-11R-2315-07","Primary Tumor","Stage II",50,3212,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",107.066666666667
+"510","TCGA-KN-8432-01A-11R-2315-07","Primary Tumor","Stage II",86,76,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",2.53333333333333
+"610","TCGA-KL-8331-01A-11R-2315-07","Primary Tumor","Stage II",48,3010,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",100.333333333333
+"7","TCGA-KL-8336-01A-11R-2315-07","Primary Tumor","Stage IV",51,NA,"Dead","920","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",NA
+"910","TCGA-KN-8418-01A-11R-2315-07","Primary Tumor","Stage II",41,3935,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",131.166666666667
+"10","TCGA-KO-8410-01A-11R-2315-07","Primary Tumor","Stage I",74,3136,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",104.533333333333
+"1110","TCGA-KL-8327-01A-11R-2315-07","Primary Tumor","Stage I",46,4169,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",138.966666666667
+"1210","TCGA-KL-8333-01A-11R-2315-07","Primary Tumor","Stage II",69,2991,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",99.7
+"1410","TCGA-KL-8326-01A-11R-2315-07","Primary Tumor","Stage III",69,3322,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",110.733333333333
+"1610","TCGA-KN-8431-01A-11R-2315-07","Primary Tumor","Stage II",35,588,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",19.6
+"1810","TCGA-KL-8324-01A-11R-2315-07","Primary Tumor","Stage II",67,4676,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",155.866666666667
+"1910","TCGA-KO-8409-01A-11R-2315-07","Primary Tumor","Stage II",69,3180,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",106
+"2010","TCGA-KO-8417-01A-11R-2315-07","Primary Tumor","Stage I",30,2815,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",93.8333333333333
+"21","TCGA-KO-8416-01A-11R-2315-07","Primary Tumor","Stage III",41,2752,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",91.7333333333333
+"2210","TCGA-KL-8330-01A-11R-2315-07","Primary Tumor","Stage II",44,3304,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",110.133333333333
+"23","TCGA-KO-8404-01A-11R-2315-07","Primary Tumor","Stage IV",78,NA,"Dead","325","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",NA
+"2410","TCGA-KO-8407-01A-11R-2315-07","Primary Tumor","Stage II",42,2820,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",94
+"2510","TCGA-KN-8423-01A-11R-2315-07","Primary Tumor","Stage I",44,788,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",26.2666666666667
+"27","TCGA-KM-8438-01A-11R-2315-07","Primary Tumor","Stage II",45,4622,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",154.066666666667
+"281","TCGA-KO-8413-01A-11R-2315-07","Primary Tumor","Stage I",46,3038,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","hispanic or latino","KICH",101.266666666667
+"291","TCGA-KM-8443-01A-11R-2315-07","Primary Tumor","Stage II",58,1520,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",50.6666666666667
+"301","TCGA-KN-8421-01A-11R-2315-07","Primary Tumor","Stage II",48,2674,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",89.1333333333333
+"311","TCGA-KL-8340-01A-11R-2315-07","Primary Tumor","Stage II",34,2024,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",67.4666666666667
+"321","TCGA-KN-8429-01A-11R-2315-07","Primary Tumor","Stage III",38,2650,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",88.3333333333333
+"341","TCGA-KL-8338-01A-11R-2315-07","Primary Tumor","Stage III",51,2633,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",87.7666666666667
+"35","TCGA-KL-8332-01A-11R-2315-07","Primary Tumor","Stage I",55,2582,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",86.0666666666667
+"371","TCGA-KM-8442-01A-11R-2315-07","Primary Tumor","Stage II",38,1437,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","hispanic or latino","KICH",47.9
+"381","TCGA-KL-8328-01A-11R-2315-07","Primary Tumor","Stage II",60,3127,"Alive","Not Reported","yes","Not Reported","Kidney, NOS","male","Not Reported","KICH",104.233333333333
+"391","TCGA-KL-8345-01A-11R-2315-07","Primary Tumor","Stage III",75,1665,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",55.5
+"401","TCGA-KN-8428-01A-11R-2315-07","Primary Tumor","Stage II",71,NA,"Dead","1590","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",NA
+"431","TCGA-KM-8476-01A-11R-2315-07","Primary Tumor","Stage I",47,3745,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",124.833333333333
+"441","TCGA-KL-8325-01A-11R-2315-07","Primary Tumor","Stage II",56,NA,"Dead","725","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",NA
+"45","TCGA-KO-8403-01A-11R-2315-07","Primary Tumor","Stage I",49,3208,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",106.933333333333
+"46","TCGA-KL-8323-01A-21R-2315-07","Primary Tumor","Stage III",57,NA,"Dead","1158","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",NA
+"47","TCGA-KM-8440-01A-11R-2315-07","Primary Tumor","Stage III",37,1366,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",45.5333333333333
+"49","TCGA-KN-8424-01A-11R-2315-07","Primary Tumor","Stage I",42,1983,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",66.1
+"51","TCGA-KN-8427-01A-11R-2315-07","Primary Tumor","Stage IV",54,30,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",1
+"52","TCGA-KO-8406-01A-11R-2315-07","Primary Tumor","Stage I",17,3145,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",104.833333333333
+"53","TCGA-KL-8334-01A-11R-2315-07","Primary Tumor","Stage III",37,2949,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",98.3
+"55","TCGA-KN-8430-01A-11R-2315-07","Primary Tumor","Stage I",75,NA,"Dead","Not Reported","yes","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",NA
+"56","TCGA-KL-8344-01A-11R-2315-07","Primary Tumor","Stage III",51,876,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",29.2
+"57","TCGA-KN-8426-01A-11R-2315-07","Primary Tumor","Stage IV",50,108,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",3.6
+"59","TCGA-KL-8343-01A-11R-2315-07","Primary Tumor","Stage III",72,1815,"Dead","2172","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",60.5
+"60","TCGA-KL-8335-01A-11R-2315-07","Primary Tumor","Stage III",68,2815,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",93.8333333333333
+"61","TCGA-KO-8405-01A-11R-2315-07","Primary Tumor","Stage III",29,3056,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","hispanic or latino","KICH",101.866666666667
+"63","TCGA-KL-8329-01A-11R-2315-07","Primary Tumor","Stage I",57,2752,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",91.7333333333333
+"64","TCGA-KN-8419-01A-11R-2315-07","Primary Tumor","Stage II",43,714,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",23.8
+"66","TCGA-KO-8408-01A-11R-2315-07","Primary Tumor","Stage III",47,NA,"Dead","507","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",NA
+"67","TCGA-KL-8339-01A-11R-2315-07","Primary Tumor","Stage IV",67,NA,"Dead","855","yes","Not Reported","Kidney, NOS","male","Not Reported","KICH",NA
+"69","TCGA-KN-8434-01A-11R-2315-07","Primary Tumor","Stage II",65,1797,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",59.9
+"72","TCGA-KN-8436-01A-11R-2315-07","Primary Tumor","Stage II",63,1288,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",42.9333333333333
+"73","TCGA-KN-8437-01A-11R-2315-07","Primary Tumor","Stage I",42,3068,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",102.266666666667
+"75","TCGA-KL-8346-01A-11R-2315-07","Primary Tumor","Stage II",62,1897,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",63.2333333333333
+"76","TCGA-KN-8433-01A-11R-2315-07","Primary Tumor","Stage III",46,341,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","not hispanic or latino","KICH",11.3666666666667
+"78","TCGA-KM-8639-01A-11R-2403-07","Primary Tumor","Stage I",67,953,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",31.7666666666667
+"79","TCGA-KN-8435-01A-11R-2315-07","Primary Tumor","Stage II",59,3498,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",116.6
+"81","TCGA-KN-8425-01A-11R-2315-07","Primary Tumor","Stage I",53,3179,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",105.966666666667
+"84","TCGA-KO-8415-01A-11R-2315-07","Primary Tumor","Stage I",44,2939,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","hispanic or latino","KICH",97.9666666666667
+"85","TCGA-KM-8477-01A-11R-2315-07","Primary Tumor","Stage I",56,1553,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",51.7666666666667
+"86","TCGA-KL-8342-01A-11R-2315-07","Primary Tumor","Stage II",45,2248,"Alive","Not Reported","no","Not Reported","Kidney, NOS","female","Not Reported","KICH",74.9333333333333
+"87","TCGA-KO-8411-01A-11R-2315-07","Primary Tumor","Stage I",58,3958,"Alive","Not Reported","yes","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",131.933333333333
+"89","TCGA-KL-8341-01A-11R-2315-07","Primary Tumor","Stage IV",41,NA,"Dead","754","no","Not Reported","Kidney, NOS","male","Not Reported","KICH",NA
+"90","TCGA-KM-8439-01A-11R-2315-07","Primary Tumor","Stage I",30,708,"Alive","Not Reported","no","Not Reported","Kidney, NOS","male","not hispanic or latino","KICH",23.6
+"1101","TCGA-SR-A6MU-01A-11R-A35L-07","Primary Tumor","Not Reported",49,3362,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",112.066666666667
+"262","TCGA-RT-A6Y9-01A-12R-A35K-07","Primary Tumor","Not Reported",50,3293,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",109.766666666667
+"312","TCGA-S7-A7WV-01A-11R-A35L-07","Primary Tumor","Not Reported",35,849,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",28.3
+"410","TCGA-WB-A817-01A-11R-A35L-07","Primary Tumor","Not Reported",27,1310,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",43.6666666666667
+"511","TCGA-S7-A7X1-01A-11R-A35L-07","Primary Tumor","Not Reported",23,576,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",19.2
+"611","TCGA-SR-A6MP-01A-11R-A35L-07","Primary Tumor","Not Reported",30,1558,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",51.9333333333333
+"710","TCGA-TT-A6YO-01A-11R-A35L-07","Primary Tumor","Not Reported",64,405,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",13.5
+"810","TCGA-RM-A68T-01A-11R-A35K-07","Primary Tumor","Not Reported",46,2372,"Alive","Not Reported","no","Not Reported","Head, face or neck, NOS","male","not hispanic or latino","PCPG",79.0666666666667
+"911","TCGA-QR-A6H4-01A-11R-A35K-07","Primary Tumor","Not Reported",56,2661,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",88.7
+"1010","TCGA-QR-A70M-01A-11R-A35K-07","Primary Tumor","Not Reported",38,1034,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",34.4666666666667
+"1111","TCGA-WB-A80P-01A-11R-A35L-07","Primary Tumor","Not Reported",20,9634,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",321.133333333333
+"1211","TCGA-WB-A81J-01A-11R-A35L-07","Primary Tumor","Not Reported",40,741,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",24.7
+"1310","TCGA-RW-A68D-01A-11R-A35K-07","Primary Tumor","Not Reported",31,2214,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",73.8
+"1411","TCGA-WB-A81R-01A-11R-A35L-07","Primary Tumor","Not Reported",55,49,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",1.63333333333333
+"15","TCGA-SR-A6N0-01A-11R-A35L-07","Primary Tumor","Not Reported",45,1509,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",50.3
+"1611","TCGA-QR-A6H6-01A-11R-A35K-07","Primary Tumor","Not Reported",27,474,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","PCPG",15.8
+"1710","TCGA-QR-A70H-01A-12R-A35K-07","Primary Tumor","Not Reported",36,816,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",27.2
+"1811","TCGA-S7-A7WR-01A-11R-A35L-07","Primary Tumor","Not Reported",32,1238,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",41.2666666666667
+"1911","TCGA-SP-A6QI-01A-12R-A35L-07","Primary Tumor","Not Reported",47,3347,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",111.566666666667
+"2011","TCGA-S7-A7WN-01A-12R-A35L-07","Primary Tumor","Not Reported",40,1133,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",37.7666666666667
+"2110","TCGA-QR-A707-01A-11R-A35K-07","Primary Tumor","Not Reported",43,398,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",13.2666666666667
+"2211","TCGA-RM-A68W-01A-11R-A35K-07","Primary Tumor","Not Reported",41,28,"Alive","Not Reported","no","Not Reported","Head, face or neck, NOS","female","not hispanic or latino","PCPG",0.933333333333333
+"2310","TCGA-S7-A7WL-01A-11R-A35L-07","Primary Tumor","Not Reported",59,961,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",32.0333333333333
+"2511","TCGA-QR-A70X-01A-11R-A35K-07","Primary Tumor","Not Reported",46,183,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",6.1
+"263","TCGA-RW-A680-01A-11R-A35K-07","Primary Tumor","Not Reported",57,1449,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of abdomen","female","Not Reported","PCPG",48.3
+"271","TCGA-W2-A7HH-01A-11R-A35L-07","Primary Tumor","Not Reported",69,779,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",25.9666666666667
+"282","TCGA-WB-A80L-01A-11R-A35L-07","Primary Tumor","Not Reported",30,1042,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",34.7333333333333
+"292","TCGA-P8-A5KD-01A-11R-A35K-07","Primary Tumor","Not Reported",35,123,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",4.1
+"302","TCGA-WB-A80K-01A-11R-A35L-07","Primary Tumor","Not Reported",49,1255,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",41.8333333333333
+"313","TCGA-WB-A81T-01A-11R-A35L-07","Primary Tumor","Not Reported",45,776,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",25.8666666666667
+"322","TCGA-QR-A6GO-01A-11R-A35K-07","Primary Tumor","Not Reported",43,1065,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",35.5
+"331","TCGA-QR-A6H5-01A-11R-A35K-07","Primary Tumor","Not Reported",30,959,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",31.9666666666667
+"342","TCGA-WB-A80Q-01A-11R-A35L-07","Primary Tumor","Not Reported",64,3880,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",129.333333333333
+"351","TCGA-QR-A6GY-01A-11R-A35K-07","Primary Tumor","Not Reported",37,32,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",1.06666666666667
+"36","TCGA-RW-A67X-01A-11R-A35K-07","Primary Tumor","Not Reported",47,89,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",2.96666666666667
+"372","TCGA-PR-A5PG-01A-11R-A35K-07","Primary Tumor","Not Reported",42,2485,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",82.8333333333333
+"382","TCGA-WB-A80N-01A-11R-A35L-07","Primary Tumor","Not Reported",54,144,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",4.8
+"392","TCGA-WB-A81N-01A-11R-A35L-07","Primary Tumor","Not Reported",28,1887,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",62.9
+"402","TCGA-S7-A7WU-01A-11R-A35L-07","Primary Tumor","Not Reported",63,928,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",30.9333333333333
+"411","TCGA-QT-A69Q-01A-11R-A35K-07","Primary Tumor","Not Reported",40,24,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",0.8
+"421","TCGA-QT-A5XN-01A-11R-A35K-07","Primary Tumor","Not Reported",51,766,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",25.5333333333333
+"432","TCGA-QR-A70V-01A-11R-A35K-07","Primary Tumor","Not Reported",66,2,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","hispanic or latino","PCPG",0.0666666666666667
+"442","TCGA-WB-A81F-01A-11R-A35L-07","Primary Tumor","Not Reported",40,1737,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",57.9
+"451","TCGA-QR-A6GX-01A-11R-A35K-07","Primary Tumor","Not Reported",28,579,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",19.3
+"461","TCGA-RW-A688-01A-11R-A35K-07","Primary Tumor","Not Reported",69,37,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",1.23333333333333
+"471","TCGA-RW-A7D0-01A-11R-A35K-07","Primary Tumor","Not Reported",47,352,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",11.7333333333333
+"48","TCGA-W2-A7HF-01A-11R-A35L-07","Primary Tumor","Not Reported",28,538,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",17.9333333333333
+"491","TCGA-QT-A5XO-01A-11R-A35K-07","Primary Tumor","Not Reported",63,70,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",2.33333333333333
+"50","TCGA-RW-A685-01A-11R-A35K-07","Primary Tumor","Not Reported",70,26,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",0.866666666666667
+"512","TCGA-SR-A6MY-01A-11R-A35L-07","Primary Tumor","Not Reported",54,750,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",25
+"521","TCGA-QT-A5XM-01A-11R-A35K-07","Primary Tumor","Not Reported",43,22,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",0.733333333333333
+"531","TCGA-WB-A81A-01A-11R-A35L-07","Primary Tumor","Not Reported",65,735,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",24.5
+"54","TCGA-WB-A80M-01A-11R-A35L-07","Primary Tumor","Not Reported",63,136,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",4.53333333333333
+"551","TCGA-RW-A684-01A-12R-A35K-07","Primary Tumor","Not Reported",64,32,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",1.06666666666667
+"561","TCGA-RW-A68G-01A-11R-A35K-07","Primary Tumor","Not Reported",49,1274,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",42.4666666666667
+"571","TCGA-QR-A70J-01A-11R-A35K-07","Primary Tumor","Not Reported",42,399,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",13.3
+"58","TCGA-QR-A7IP-01A-11R-A35K-07","Primary Tumor","Not Reported",30,546,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",18.2
+"591","TCGA-QT-A5XK-01A-11R-A35K-07","Primary Tumor","Not Reported",56,211,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",7.03333333333333
+"601","TCGA-QR-A70N-01A-12R-A35K-07","Primary Tumor","Not Reported",32,43,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",1.43333333333333
+"612","TCGA-QR-A70W-01A-12R-A35K-07","Primary Tumor","Not Reported",40,1271,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",42.3666666666667
+"62","TCGA-WB-A815-01A-11R-A35L-07","Primary Tumor","Not Reported",68,1630,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",54.3333333333333
+"631","TCGA-QT-A5XL-01A-11R-A35K-07","Primary Tumor","Not Reported",27,55,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",1.83333333333333
+"641","TCGA-SA-A6C2-01A-11R-A35L-07","Primary Tumor","Not Reported",46,296,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",9.86666666666667
+"65","TCGA-QR-A6GW-01A-11R-A35K-07","Primary Tumor","Not Reported",53,491,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",16.3666666666667
+"661","TCGA-QT-A7U0-01A-11R-A35K-07","Primary Tumor","Not Reported",56,398,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",13.2666666666667
+"671","TCGA-SP-A6QK-01A-11R-A35L-07","Primary Tumor","Not Reported",46,3384,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",112.8
+"68","TCGA-WB-A81H-01A-11R-A35L-07","Primary Tumor","Not Reported",45,1946,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",64.8666666666667
+"691","TCGA-WB-A80Y-01A-11R-A35L-07","Primary Tumor","Not Reported",60,NA,"Dead","596","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",NA
+"70","TCGA-WB-A814-01A-11R-A35L-07","Primary Tumor","Not Reported",35,2252,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",75.0666666666667
+"71","TCGA-QR-A6H0-01A-11R-A35K-07","Primary Tumor","Not Reported",53,280,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","PCPG",9.33333333333333
+"721","TCGA-RW-A68F-01A-11R-A35K-07","Primary Tumor","Not Reported",51,1354,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",45.1333333333333
+"731","TCGA-WB-A820-01A-11R-A35L-07","Primary Tumor","Not Reported",40,NA,"Dead","309","yes","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",NA
+"74","TCGA-WB-A822-01A-11R-A35L-07","Primary Tumor","Not Reported",23,3138,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",104.6
+"751","TCGA-QR-A708-01A-11R-A35K-07","Primary Tumor","Not Reported",44,35,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",1.16666666666667
+"761","TCGA-XG-A823-01A-11R-A35L-07","Primary Tumor","Not Reported",25,614,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","hispanic or latino","PCPG",20.4666666666667
+"77","TCGA-W2-A7HD-01A-11R-A35L-07","Primary Tumor","Not Reported",76,561,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",18.7
+"781","TCGA-QR-A6ZZ-01A-11R-A35K-07","Primary Tumor","Not Reported",30,48,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",1.6
+"791","TCGA-WB-A80O-01A-11R-A35L-07","Primary Tumor","Not Reported",83,776,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",25.8666666666667
+"80","TCGA-RW-A68C-01A-11R-A35K-07","Primary Tumor","Not Reported",43,191,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",6.36666666666667
+"811","TCGA-SP-A6QH-01A-21R-A35L-07","Primary Tumor","Not Reported",35,2203,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",73.4333333333333
+"82","TCGA-QR-A6GS-01A-11R-A35K-07","Primary Tumor","Not Reported",51,38,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",1.26666666666667
+"83","TCGA-W2-A7UY-01A-11R-A35L-07","Primary Tumor","Not Reported",44,450,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",15
+"851","TCGA-SQ-A6I4-01A-11R-A35L-07","Primary Tumor","Not Reported",53,43,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",1.43333333333333
+"861","TCGA-SR-A6MV-01A-11R-A35L-07","Primary Tumor","Not Reported",35,3682,"Alive","Not Reported","no","Not Reported","Intra-abdominal lymph nodes","female","not hispanic or latino","PCPG",122.733333333333
+"871","TCGA-TT-A6YP-01A-21R-A35L-07","Primary Tumor","Not Reported",19,1292,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",43.0666666666667
+"88","TCGA-WB-A81G-01A-11R-A35L-07","Primary Tumor","Not Reported",25,1179,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",39.3
+"891","TCGA-SR-A6MS-01A-11R-A35L-07","Primary Tumor","Not Reported",35,2492,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",83.0666666666667
+"901","TCGA-QR-A70I-01A-11R-A35K-07","Primary Tumor","Not Reported",24,910,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",30.3333333333333
+"91","TCGA-QR-A70A-01A-11R-A35K-07","Primary Tumor","Not Reported",54,2119,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",70.6333333333333
+"92","TCGA-QT-A5XP-01A-11R-A35K-07","Primary Tumor","Not Reported",57,134,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",4.46666666666667
+"93","TCGA-QR-A6H1-01A-11R-A35K-07","Primary Tumor","Not Reported",55,431,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",14.3666666666667
+"94","TCGA-SP-A6QC-01A-11R-A35L-07","Primary Tumor","Not Reported",46,3491,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",116.366666666667
+"95","TCGA-S7-A7WM-01A-12R-A35L-07","Primary Tumor","Not Reported",76,1112,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",37.0666666666667
+"96","TCGA-RW-A686-01A-11R-A35K-07","Primary Tumor","Not Reported",62,587,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",19.5666666666667
+"97","TCGA-P8-A6RX-01A-11R-A35K-07","Primary Tumor","Not Reported",65,540,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",18
+"98","TCGA-WB-A80V-01A-12R-A35L-07","Primary Tumor","Not Reported",63,887,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",29.5666666666667
+"99","TCGA-QR-A70R-01A-11R-A35K-07","Primary Tumor","Not Reported",43,432,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",14.4
+"100","TCGA-TT-A6YN-01A-12R-A35L-07","Primary Tumor","Not Reported",37,606,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",20.2
+"101","TCGA-WB-A81V-01A-11R-A35L-07","Primary Tumor","Not Reported",57,2161,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",72.0333333333333
+"102","TCGA-P8-A5KC-01A-11R-A35K-07","Primary Tumor","Not Reported",48,883,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",29.4333333333333
+"104","TCGA-QT-A5XJ-01A-11R-A35K-07","Primary Tumor","Not Reported",42,1102,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",36.7333333333333
+"105","TCGA-SR-A6MR-01A-11R-A35L-07","Primary Tumor","Not Reported",41,2409,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",80.3
+"106","TCGA-SP-A6QG-01A-12R-A35L-07","Primary Tumor","Not Reported",35,2417,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",80.5666666666667
+"107","TCGA-W2-A7HB-01A-11R-A35L-07","Primary Tumor","Not Reported",24,604,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",20.1333333333333
+"108","TCGA-P7-A5NY-01A-12R-A35K-07","Primary Tumor","Not Reported",21,957,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",31.9
+"109","TCGA-RW-A8AZ-01A-11R-A35K-07","Primary Tumor","Not Reported",66,NA,"Dead","88","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",NA
+"110","TCGA-RW-A67W-01A-11R-A35K-07","Primary Tumor","Not Reported",46,604,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",20.1333333333333
+"111","TCGA-QR-A6H2-01A-11R-A35K-07","Primary Tumor","Not Reported",33,302,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",10.0666666666667
+"112","TCGA-QR-A6GT-01A-11R-A35K-07","Primary Tumor","Not Reported",63,4185,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",139.5
+"113","TCGA-P8-A6RY-01A-12R-A35K-07","Primary Tumor","Not Reported",55,179,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",5.96666666666667
+"114","TCGA-S7-A7WO-01A-11R-A35L-07","Primary Tumor","Not Reported",77,1080,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",36
+"115","TCGA-SR-A6MX-01A-11R-A35L-07","Primary Tumor","Not Reported",55,NA,"Dead","95","no","Not Reported","Nervous system, NOS","male","Not Reported","PCPG",NA
+"116","TCGA-WB-A81Q-01A-11R-A35L-07","Primary Tumor","Not Reported",44,NA,"Dead","755","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",NA
+"117","TCGA-QR-A70G-01B-11R-A35K-07","Primary Tumor","Not Reported",54,71,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",2.36666666666667
+"118","TCGA-W2-A7H7-01A-11R-A35L-07","Primary Tumor","Not Reported",59,522,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",17.4
+"119","TCGA-WB-A81E-01A-11R-A35L-07","Primary Tumor","Not Reported",47,1476,"Alive","Not Reported","yes","Not Reported","Mediastinum, NOS","female","not hispanic or latino","PCPG",49.2
+"120","TCGA-QR-A70P-01A-11R-A35K-07","Primary Tumor","Not Reported",45,NA,"Dead","3563","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",NA
+"121","TCGA-SR-A6MT-01A-11R-A35L-07","Primary Tumor","Not Reported",57,3247,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",108.233333333333
+"122","TCGA-QR-A703-01A-11R-A35K-07","Primary Tumor","Not Reported",23,1167,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",38.9
+"123","TCGA-S7-A7WQ-01A-12R-A35L-07","Primary Tumor","Not Reported",19,820,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",27.3333333333333
+"124","TCGA-SP-A6QF-01A-12R-A35L-07","Primary Tumor","Not Reported",48,2513,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",83.7666666666667
+"125","TCGA-QR-A702-01A-11R-A35K-07","Primary Tumor","Not Reported",75,39,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",1.3
+"126","TCGA-S7-A7X0-01A-12R-A35L-07","Primary Tumor","Not Reported",75,546,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","female","not hispanic or latino","PCPG",18.2
+"127","TCGA-QR-A6GZ-01A-11R-A35K-07","Primary Tumor","Not Reported",31,928,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",30.9333333333333
+"128","TCGA-WB-A821-01A-11R-A35L-07","Primary Tumor","Not Reported",73,2832,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",94.4
+"129","TCGA-P7-A5NX-01A-11R-A35K-07","Primary Tumor","Not Reported",78,818,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","hispanic or latino","PCPG",27.2666666666667
+"130","TCGA-QR-A70T-01A-11R-A35K-07","Primary Tumor","Not Reported",40,267,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","PCPG",8.9
+"131","TCGA-RT-A6YC-01A-12R-A35K-07","Primary Tumor","Not Reported",31,246,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",8.2
+"132","TCGA-S7-A7WT-01A-12R-A35L-07","Primary Tumor","Not Reported",74,1301,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",43.3666666666667
+"133","TCGA-QR-A6GR-01A-11R-A35K-07","Primary Tumor","Not Reported",30,703,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",23.4333333333333
+"134","TCGA-W2-A7HE-01A-11R-A35L-07","Primary Tumor","Not Reported",80,505,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",16.8333333333333
+"135","TCGA-QR-A70K-01A-12R-A35K-07","Primary Tumor","Not Reported",61,274,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",9.13333333333333
+"136","TCGA-QR-A705-01A-11R-A35K-07","Primary Tumor","Not Reported",63,317,"Alive","Not Reported","yes","Not Reported","Heart","female","Not Reported","PCPG",10.5666666666667
+"137","TCGA-QR-A70C-01A-21R-A35K-07","Primary Tumor","Not Reported",51,3534,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",117.8
+"138","TCGA-WB-A818-01A-11R-A35L-07","Primary Tumor","Not Reported",37,1288,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",42.9333333333333
+"139","TCGA-SR-A6MZ-01A-11R-A35L-07","Primary Tumor","Not Reported",46,797,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",26.5666666666667
+"140","TCGA-QR-A70U-01A-11R-A35K-07","Primary Tumor","Not Reported",46,1473,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",49.1
+"141","TCGA-RW-A681-01A-11R-A35K-07","Primary Tumor","Not Reported",57,1141,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",38.0333333333333
+"142","TCGA-WB-A81W-01A-11R-A35L-07","Primary Tumor","Not Reported",41,2379,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",79.3
+"143","TCGA-TT-A6YK-01A-11R-A35L-07","Primary Tumor","Not Reported",61,1136,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of abdomen","male","not hispanic or latino","PCPG",37.8666666666667
+"144","TCGA-RW-A68A-01A-11R-A35K-07","Primary Tumor","Not Reported",19,762,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",25.4
+"145","TCGA-WB-A81M-01A-11R-A35L-07","Primary Tumor","Not Reported",42,1394,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",46.4666666666667
+"146","TCGA-RT-A6YA-01A-12R-A35K-07","Primary Tumor","Not Reported",71,1540,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",51.3333333333333
+"147","TCGA-S7-A7WX-01A-11R-A35L-07","Primary Tumor","Not Reported",52,770,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",25.6666666666667
+"148","TCGA-S7-A7WP-01A-11R-A35L-07","Primary Tumor","Not Reported",25,944,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",31.4666666666667
+"149","TCGA-QR-A70D-01A-11R-A35K-07","Primary Tumor","Not Reported",39,7,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","PCPG",0.233333333333333
+"150","TCGA-QR-A70Q-01A-13R-A35K-07","Primary Tumor","Not Reported",33,140,"Alive","Not Reported","no","Not Reported","Thorax, NOS","male","Not Reported","PCPG",4.66666666666667
+"151","TCGA-WB-A81S-01A-11R-A35L-07","Primary Tumor","Not Reported",59,723,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",24.1
+"152","TCGA-RW-A67Y-01A-11R-A35K-07","Primary Tumor","Not Reported",43,216,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",7.2
+"153","TCGA-WB-A816-01A-11R-A35L-07","Primary Tumor","Not Reported",42,1254,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","hispanic or latino","PCPG",41.8
+"154","TCGA-QR-A6GU-01A-11R-A35K-07","Primary Tumor","Not Reported",31,1791,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",59.7
+"155","TCGA-RX-A8JQ-01A-11R-A35L-07","Primary Tumor","Not Reported",44,611,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","PCPG",20.3666666666667
+"156","TCGA-SR-A6MQ-01A-11R-A35L-07","Primary Tumor","Not Reported",61,2087,"Alive","Not Reported","no","Not Reported","Aortic body and other paraganglia","female","not hispanic or latino","PCPG",69.5666666666667
+"157","TCGA-RW-A7CZ-01A-11R-A35K-07","Primary Tumor","Not Reported",73,422,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","Not Reported","PCPG",14.0666666666667
+"158","TCGA-S7-A7X2-01A-12R-A35L-07","Primary Tumor","Not Reported",57,736,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",24.5333333333333
+"159","TCGA-PR-A5PH-01A-11R-A35K-07","Primary Tumor","Not Reported",47,854,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",28.4666666666667
+"160","TCGA-WB-A81K-01A-11R-A35L-07","Primary Tumor","Not Reported",45,1218,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",40.6
+"161","TCGA-WB-A81P-01A-11R-A35L-07","Primary Tumor","Not Reported",73,395,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",13.1666666666667
+"162","TCGA-WB-A81D-01A-11R-A35L-07","Primary Tumor","Not Reported",82,1090,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",36.3333333333333
+"163","TCGA-W2-A7HC-01A-11R-A35L-07","Primary Tumor","Not Reported",68,439,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",14.6333333333333
+"164","TCGA-QR-A7IN-01A-11R-A35K-07","Primary Tumor","Not Reported",52,377,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",12.5666666666667
+"165","TCGA-QR-A706-01A-11R-A35K-07","Primary Tumor","Not Reported",50,125,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","PCPG",4.16666666666667
+"166","TCGA-QR-A70E-01A-11R-A35K-07","Primary Tumor","Not Reported",31,192,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",6.4
+"167","TCGA-S7-A7WW-01A-11R-A35L-07","Primary Tumor","Not Reported",34,706,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",23.5333333333333
+"168","TCGA-RW-A67V-01A-11R-A35K-07","Primary Tumor","Not Reported",44,2643,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",88.1
+"169","TCGA-SQ-A6I6-01A-11R-A35L-07","Primary Tumor","Not Reported",39,3,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",0.1
+"170","TCGA-WB-A81I-01A-11R-A35L-07","Primary Tumor","Not Reported",64,679,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",22.6333333333333
+"171","TCGA-W2-A7H5-01B-11R-A35L-07","Primary Tumor","Not Reported",25,611,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",20.3666666666667
+"172","TCGA-QR-A700-01A-11R-A35K-07","Primary Tumor","Not Reported",67,978,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",32.6
+"173","TCGA-QR-A6H3-01A-11R-A35K-07","Primary Tumor","Not Reported",41,434,"Alive","Not Reported","no","Not Reported","Thorax, NOS","male","not hispanic or latino","PCPG",14.4666666666667
+"174","TCGA-QR-A70O-01A-11R-A35K-07","Primary Tumor","Not Reported",35,111,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","hispanic or latino","PCPG",3.7
+"175","TCGA-RW-A68B-01A-11R-A35K-07","Primary Tumor","Not Reported",31,727,"Alive","Not Reported","yes","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",24.2333333333333
+"176","TCGA-SP-A6QD-01A-12R-A35L-07","Primary Tumor","Not Reported",26,3323,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",110.766666666667
+"177","TCGA-WB-A819-01A-11R-A35L-07","Primary Tumor","Not Reported",36,1031,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","not hispanic or latino","PCPG",34.3666666666667
+"178","TCGA-PR-A5PF-01A-11R-A35K-07","Primary Tumor","Not Reported",62,546,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",18.2
+"179","TCGA-RW-A689-01A-11R-A35K-07","Primary Tumor","Not Reported",58,828,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","male","Not Reported","PCPG",27.6
+"180","TCGA-SP-A6QJ-01A-11R-A35L-07","Primary Tumor","Not Reported",64,472,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",15.7333333333333
+"181","TCGA-W2-A7HA-01B-11R-A35L-07","Primary Tumor","Not Reported",63,36,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","not hispanic or latino","PCPG",1.2
+"182","TCGA-TT-A6YJ-01A-11R-A35L-07","Primary Tumor","Not Reported",45,132,"Alive","Not Reported","no","Not Reported","Adrenal gland, NOS","female","Not Reported","PCPG",4.4
+"1102","TCGA-DX-AB36-01A-11R-A41I-07","Primary Tumor","Not Reported",86,NA,"Dead","1168","yes","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","SARC",NA
+"264","TCGA-Z4-AAPG-01A-11R-A39D-07","Primary Tumor","Not Reported",64,486,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",16.2
+"314","TCGA-DX-A2IZ-01A-11R-A21T-07","Primary Tumor","Not Reported",60,261,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",8.7
+"412","TCGA-X6-A8C6-01A-11R-A36F-07","Primary Tumor","Not Reported",55,749,"Dead","1067","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",24.9666666666667
+"513","TCGA-HS-A5N8-01A-11R-A26T-07","Primary Tumor","Not Reported",69,3,"Dead","22","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",0.1
+"613","TCGA-HB-A2OT-01A-11R-A21T-07","Primary Tumor","Not Reported",78,2057,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",68.5666666666667
+"711","TCGA-DX-A1KX-01A-22R-A24X-07","Primary Tumor","Not Reported",67,2087,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",69.5666666666667
+"812","TCGA-WK-A8XQ-01A-11R-A37L-07","Primary Tumor","Not Reported",57,NA,"Dead","146","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",NA
+"912","TCGA-DX-A6BF-01A-11R-A30C-07","Primary Tumor","Not Reported",82,972,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",32.4
+"1011","TCGA-DX-A2J4-01A-32R-A21T-07","Primary Tumor","Not Reported",60,2408,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",80.2666666666667
+"1112","TCGA-DX-A6YT-01A-21R-A355-07","Primary Tumor","Not Reported",31,2044,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",68.1333333333333
+"1212","TCGA-WK-A8XO-01A-11R-A37L-07","Primary Tumor","Not Reported",66,NA,"Dead","363","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1311","TCGA-DX-A48O-01A-11R-A30C-07","Primary Tumor","Not Reported",64,1605,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",53.5
+"1412","TCGA-DX-A23T-01A-11R-A26T-07","Primary Tumor","Not Reported",40,NA,"Dead","160","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1510","TCGA-DX-AB35-01A-21R-A41I-07","Primary Tumor","Not Reported",65,928,"Alive","Not Reported","yes","Not Reported","Descending colon","male","not hispanic or latino","SARC",30.9333333333333
+"1612","TCGA-X2-A95T-01A-11R-A37L-07","Primary Tumor","Not Reported",49,1927,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",64.2333333333333
+"1711","TCGA-3B-A9HX-01A-11R-A39D-07","Primary Tumor","Not Reported",70,1303,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",43.4333333333333
+"1812","TCGA-HS-A5NA-01A-11R-A26T-07","Primary Tumor","Not Reported",65,298,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",9.93333333333333
+"1912","TCGA-DX-AB2J-01A-11R-A38C-07","Primary Tumor","Not Reported",71,NA,"Dead","1235","yes","Not Reported","Retroperitoneum","female","Not Reported","SARC",NA
+"2012","TCGA-KD-A5QU-01A-11R-A27Q-07","Primary Tumor","Not Reported",41,259,"Dead","1073","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",8.63333333333333
+"2111","TCGA-WK-A8XZ-01A-11R-A37L-07","Primary Tumor","Not Reported",56,NA,"Dead","1722","no","Not Reported","Connective, subcutaneous and other soft tissues of abdomen","female","Not Reported","SARC",NA
+"2212","TCGA-DX-A3UE-01A-11R-A30C-07","Primary Tumor","Not Reported",66,NA,"Dead","1061","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","female","not hispanic or latino","SARC",NA
+"2311","TCGA-DX-AB2V-01A-11R-A41I-07","Primary Tumor","Not Reported",81,3156,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","SARC",105.2
+"2411","TCGA-DX-A8BV-01A-11R-A37L-07","Primary Tumor","Not Reported",57,NA,"Dead","1845","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"2512","TCGA-DX-A6B7-01A-11R-A30C-07","Primary Tumor","Not Reported",55,1143,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",38.1
+"265","TCGA-DX-A7EQ-01A-11R-A466-07","Primary Tumor","Not Reported",72,NA,"Dead","897","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","Not Reported","SARC",NA
+"272","TCGA-IW-A3M4-01A-11R-A21T-07","Primary Tumor","Not Reported",48,2615,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",87.1666666666667
+"283","TCGA-QQ-A5VB-01A-11R-A36F-07","Primary Tumor","Not Reported",53,NA,"Dead","1478","no","Not Reported","Connective, subcutaneous and other soft tissues, NOS","female","Not Reported","SARC",NA
+"293","TCGA-DX-A6YR-01A-33R-A355-07","Primary Tumor","Not Reported",75,1247,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","SARC",41.5666666666667
+"303","TCGA-HB-A3YV-01A-11R-A24X-07","Primary Tumor","Not Reported",75,NA,"Dead","139","no","Not Reported","Kidney, NOS","male","not hispanic or latino","SARC",NA
+"315","TCGA-MJ-A68J-01A-11R-A30C-07","Primary Tumor","Not Reported",55,547,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",18.2333333333333
+"323","TCGA-DX-A6YU-01A-12R-A33J-07","Primary Tumor","Not Reported",50,1045,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",34.8333333333333
+"332","TCGA-FX-A48G-01A-11R-A24X-07","Primary Tumor","Not Reported",56,2,"Dead","605","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",0.0666666666666667
+"343","TCGA-FX-A3TO-01A-11R-A22K-07","Primary Tumor","Not Reported",87,618,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",20.6
+"352","TCGA-MJ-A850-01A-11R-A355-07","Primary Tumor","Not Reported",28,681,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of head, face, and neck","male","not hispanic or latino","SARC",22.7
+"361","TCGA-DX-A3U9-01A-11R-A30C-07","Primary Tumor","Not Reported",84,NA,"Dead","456","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"373","TCGA-DX-A6Z2-01A-12R-A36F-07","Primary Tumor","Not Reported",82,2830,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",94.3333333333333
+"383","TCGA-X6-A7WC-01A-12R-A355-07","Primary Tumor","Not Reported",74,1379,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",45.9666666666667
+"393","TCGA-UE-A6QU-01A-12R-A32Q-07","Primary Tumor","Not Reported",90,0,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",0
+"403","TCGA-DX-AB37-01A-11R-A41I-07","Primary Tumor","Not Reported",73,NA,"Dead","2575","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"413","TCGA-SG-A6Z4-01A-22R-A33J-07","Primary Tumor","Not Reported",47,576,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",19.2
+"422","TCGA-DX-A23V-01A-11R-A29R-07","Primary Tumor","Not Reported",57,NA,"Dead","2034","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"433","TCGA-DX-A2J1-01A-11R-A21T-07","Primary Tumor","Not Reported",53,2901,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",96.7
+"443","TCGA-K1-A6RT-01A-32R-A33J-07","Primary Tumor","Not Reported",48,528,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",17.6
+"452","TCGA-IE-A3OV-01A-11R-A22K-07","Primary Tumor","Not Reported",42,NA,"Dead","2448","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",NA
+"462","TCGA-SI-A71P-01A-12R-A33J-07","Primary Tumor","Not Reported",50,771,"Alive","Not Reported","no","Not Reported","Peripheral nerves and autonomic nervous system of upper limb and shoulder","male","not hispanic or latino","SARC",25.7
+"472","TCGA-IS-A3KA-01A-11R-A21T-07","Primary Tumor","Not Reported",73,NA,"Dead","413","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",NA
+"481","TCGA-K1-A3PO-01A-11R-A21T-07","Primary Tumor","Not Reported",42,1622,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",54.0666666666667
+"501","TCGA-DX-AB2L-01A-32R-A41I-07","Primary Tumor","Not Reported",35,2007,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","Not Reported","SARC",66.9
+"514","TCGA-SG-A6Z7-01A-12R-A32Q-07","Primary Tumor","Not Reported",44,NA,"Dead","118","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"522","TCGA-HS-A5N7-01A-21R-A26T-07","Primary Tumor","Not Reported",67,1013,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","Not Reported","SARC",33.7666666666667
+"541","TCGA-FX-A2QS-01A-11R-A21T-07","Primary Tumor","Not Reported",61,1495,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",49.8333333333333
+"552","TCGA-HS-A5N9-01A-11R-A26T-07","Primary Tumor","Not Reported",58,1585,"Alive","Not Reported","yes","Not Reported","Uterus, NOS","female","Not Reported","SARC",52.8333333333333
+"562","TCGA-3B-A9HY-01A-11R-A39D-07","Primary Tumor","Not Reported",49,314,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",10.4666666666667
+"572","TCGA-DX-A7EI-01A-11R-A33J-07","Primary Tumor","Not Reported",78,NA,"Dead","1049","no","Not Reported","Retroperitoneum","female","Not Reported","SARC",NA
+"581","TCGA-DX-A3LW-01A-21R-A21T-07","Primary Tumor","Not Reported",43,4150,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",138.333333333333
+"592","TCGA-DX-AB2W-01A-11R-A39D-07","Primary Tumor","Not Reported",62,3238,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",107.933333333333
+"602","TCGA-MB-A5YA-01A-11R-A29R-07","Primary Tumor","Not Reported",63,15,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",0.5
+"614","TCGA-DX-A48K-01A-11R-A30C-07","Primary Tumor","Not Reported",65,1399,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",46.6333333333333
+"621","TCGA-QC-A7B5-01A-11R-A33J-07","Primary Tumor","Not Reported",75,398,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of head, face, and neck","male","not hispanic or latino","SARC",13.2666666666667
+"632","TCGA-DX-A1KZ-01A-11R-A24X-07","Primary Tumor","Not Reported",66,1372,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",45.7333333333333
+"642","TCGA-DX-A2J0-01A-11R-A21T-07","Primary Tumor","Not Reported",61,NA,"Dead","295","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"651","TCGA-DX-A8BS-01A-11R-A37L-07","Primary Tumor","Not Reported",68,NA,"Dead","850","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"662","TCGA-K1-A6RU-01A-11R-A32Q-07","Primary Tumor","Not Reported",66,330,"Dead","711","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",11
+"672","TCGA-FX-A8OO-01A-11R-A36F-07","Primary Tumor","Not Reported",31,63,"Dead","245","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",2.1
+"681","TCGA-DX-A8BG-01A-12R-A41I-07","Primary Tumor","Not Reported",83,546,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",18.2
+"692","TCGA-DX-A23Y-01A-11R-A27Q-07","Primary Tumor","Not Reported",80,NA,"Dead","191","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"701","TCGA-IE-A4EH-01A-11R-A24X-07","Primary Tumor","Not Reported",35,819,"Alive","Not Reported","no","Not Reported","Corpus uteri","female","not hispanic or latino","SARC",27.3
+"712","TCGA-3B-A9HZ-01A-11R-A39D-07","Primary Tumor","Not Reported",66,1170,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","SARC",39
+"722","TCGA-X6-A8C5-01A-11R-A36F-07","Primary Tumor","Not Reported",63,1547,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",51.5666666666667
+"732","TCGA-DX-AB2G-01A-11R-A39D-07","Primary Tumor","Not Reported",36,478,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",15.9333333333333
+"741","TCGA-3B-A9HI-01A-11R-A38C-07","Primary Tumor","Not Reported",68,1521,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","male","not hispanic or latino","SARC",50.7
+"752","TCGA-DX-A3LY-01B-11R-A27Q-07","Primary Tumor","Not Reported",66,1017,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",33.9
+"762","TCGA-DX-A240-01A-32R-A27Q-07","Primary Tumor","Not Reported",51,1834,"Alive","Not Reported","no","Not Reported","Spermatic cord","male","not hispanic or latino","SARC",61.1333333333333
+"771","TCGA-DX-A6BH-01A-12R-A30C-07","Primary Tumor","Not Reported",34,821,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",27.3666666666667
+"782","TCGA-X6-A8C3-01A-11R-A36F-07","Primary Tumor","Not Reported",59,583,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",19.4333333333333
+"792","TCGA-DX-A3LS-01A-11R-A21T-07","Primary Tumor","Not Reported",78,NA,"Dead","275","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"801","TCGA-DX-A8BX-01A-11R-A37L-07","Primary Tumor","Not Reported",52,NA,"Dead","591","no","Not Reported","Retroperitoneum","male","hispanic or latino","SARC",NA
+"813","TCGA-DX-A23Z-01A-11R-A27Q-07","Primary Tumor","Not Reported",74,NA,"Dead","846","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"821","TCGA-FX-A76Y-01A-11R-A355-07","Primary Tumor","Not Reported",49,471,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",15.7
+"831","TCGA-DX-A6BB-01A-12R-A32Q-07","Primary Tumor","Not Reported",74,1105,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",36.8333333333333
+"841","TCGA-IW-A3M6-01A-11R-A21T-07","Primary Tumor","Not Reported",59,688,"Alive","Not Reported","yes","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",22.9333333333333
+"852","TCGA-DX-A7EN-01A-11R-A39D-07","Primary Tumor","Not Reported",53,923,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",30.7666666666667
+"862","TCGA-LI-A67I-01A-31R-A30C-07","Primary Tumor","Not Reported",75,922,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",30.7333333333333
+"872","TCGA-WK-A8XT-01A-11R-A37L-07","Primary Tumor","Not Reported",40,NA,"Dead","1262","yes","Not Reported","Kidney, NOS","female","not hispanic or latino","SARC",NA
+"881","TCGA-DX-A7ET-01A-11R-A36F-07","Primary Tumor","Not Reported",71,463,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","SARC",15.4333333333333
+"892","TCGA-DX-A8BN-01A-11R-A37L-07","Primary Tumor","Not Reported",78,1161,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",38.7
+"902","TCGA-3B-A9HV-01A-11R-A39D-07","Primary Tumor","Not Reported",48,NA,"Dead","437","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",NA
+"913","TCGA-DX-A8BU-01A-11R-A37L-07","Primary Tumor","Not Reported",58,NA,"Dead","1116","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","Not Reported","SARC",NA
+"921","TCGA-MB-A5Y8-01A-11R-A29R-07","Primary Tumor","Not Reported",60,773,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",25.7666666666667
+"931","TCGA-3B-A9HT-01A-11R-A39D-07","Primary Tumor","Not Reported",53,1665,"Alive","Not Reported","no","Not Reported","Tongue, NOS","male","not hispanic or latino","SARC",55.5
+"941","TCGA-QQ-A8VB-01A-11R-A37L-07","Primary Tumor","Not Reported",68,5723,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","female","Not Reported","SARC",190.766666666667
+"951","TCGA-QQ-A8VF-01A-11R-A37L-07","Primary Tumor","Not Reported",70,3406,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",113.533333333333
+"961","TCGA-VT-AB3D-01A-12R-A41I-07","Primary Tumor","Not Reported",71,379,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","male","not hispanic or latino","SARC",12.6333333333333
+"971","TCGA-DX-A6BA-01A-11R-A30C-07","Primary Tumor","Not Reported",53,2515,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",83.8333333333333
+"981","TCGA-IF-A4AJ-01A-11R-A24X-07","Primary Tumor","Not Reported",80,NA,"Dead","767","no","Not Reported","Long bones of lower limb and associated joints","male","not hispanic or latino","SARC",NA
+"991","TCGA-DX-A8BZ-01A-11R-A37L-07","Primary Tumor","Not Reported",79,NA,"Dead","200","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","female","not hispanic or latino","SARC",NA
+"1001","TCGA-DX-A8BH-01A-11R-A37L-07","Primary Tumor","Not Reported",87,102,"Dead","439","yes","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","SARC",3.4
+"1012","TCGA-IE-A4EJ-01A-11R-A24X-07","Primary Tumor","Not Reported",84,98,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",3.26666666666667
+"1021","TCGA-Z4-A9VC-01A-11R-A37L-07","Primary Tumor","Not Reported",37,407,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",13.5666666666667
+"103","TCGA-HB-A3L4-01A-11R-A21T-07","Primary Tumor","Not Reported",46,861,"Dead","1061","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",28.7
+"1041","TCGA-DX-AATS-01A-12R-A41I-07","Primary Tumor","Not Reported",72,NA,"Dead","35","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"1051","TCGA-SI-AA8B-01A-11R-A38C-07","Primary Tumor","Not Reported",80,154,"Dead","262","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",5.13333333333333
+"1061","TCGA-VT-A80J-01A-11R-A36F-07","Primary Tumor","Not Reported",49,796,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",26.5333333333333
+"1071","TCGA-DX-A8BR-01A-11R-A41I-07","Primary Tumor","Not Reported",63,4573,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",152.433333333333
+"1081","TCGA-DX-A1L1-01A-11R-A24X-07","Primary Tumor","Not Reported",60,1420,"Dead","1649","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",47.3333333333333
+"1091","TCGA-DX-A6YZ-01A-12R-A355-07","Primary Tumor","Not Reported",59,2625,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",87.5
+"1103","TCGA-IE-A4EK-01A-11R-A24X-07","Primary Tumor","Not Reported",54,42,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",1.4
+"1113","TCGA-QQ-A8VH-01A-11R-A37L-07","Primary Tumor","Not Reported",31,NA,"Dead","320","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1121","TCGA-IS-A3K7-01A-11R-A21T-07","Primary Tumor","Not Reported",63,5204,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",173.466666666667
+"1131","TCGA-DX-A3UF-01A-11R-A30C-07","Primary Tumor","Not Reported",65,2491,"Dead","2599","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",83.0333333333333
+"1141","TCGA-PT-A8TR-01A-11R-A37L-07","Primary Tumor","Not Reported",57,813,"Alive","Not Reported","no","Not Reported","Isthmus uteri","female","not hispanic or latino","SARC",27.1
+"1151","TCGA-DX-A6YQ-01A-12R-A33J-07","Primary Tumor","Not Reported",86,NA,"Dead","93","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","female","not hispanic or latino","SARC",NA
+"1161","TCGA-DX-AB2H-01A-11R-A39D-07","Primary Tumor","Not Reported",81,482,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",16.0666666666667
+"1171","TCGA-DX-A3U6-01A-11R-A29R-07","Primary Tumor","Not Reported",63,540,"Dead","1088","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",18
+"1181","TCGA-DX-A48J-01A-21R-A30C-07","Primary Tumor","Not Reported",44,NA,"Dead","296","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"1191","TCGA-QQ-A5VA-01A-12R-A32Q-07","Primary Tumor","Not Reported",60,NA,"Dead","550","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1201","TCGA-DX-A6YV-01A-12R-A355-07","Primary Tumor","Not Reported",74,NA,"Dead","1536","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",NA
+"1213","TCGA-DX-A7EO-01A-11R-A36F-07","Primary Tumor","Not Reported",20,4627,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","female","hispanic or latino","SARC",154.233333333333
+"1221","TCGA-QQ-A8VD-01A-42R-A39D-07","Primary Tumor","Not Reported",56,3964,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",132.133333333333
+"1231","TCGA-DX-A1L2-01A-22R-A24X-07","Primary Tumor","Not Reported",78,2586,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",86.2
+"1241","TCGA-DX-A8BP-01A-11R-A37L-07","Primary Tumor","Not Reported",85,428,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",14.2666666666667
+"1251","TCGA-DX-A3UD-01A-11R-A30C-07","Primary Tumor","Not Reported",56,1534,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",51.1333333333333
+"1261","TCGA-DX-A8BK-01A-11R-A37L-07","Primary Tumor","Not Reported",61,1885,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",62.8333333333333
+"1271","TCGA-VT-A80G-01A-11R-A36F-07","Primary Tumor","Not Reported",66,326,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",10.8666666666667
+"1281","TCGA-UE-A6QT-01A-12R-A32Q-07","Primary Tumor","Not Reported",50,402,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of head, face, and neck","female","not hispanic or latino","SARC",13.4
+"1291","TCGA-N1-A6IA-01A-12R-A32Q-07","Primary Tumor","Not Reported",41,124,"Dead","224","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",4.13333333333333
+"1301","TCGA-DX-A3M2-01A-21R-A22K-07","Primary Tumor","Not Reported",59,1055,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",35.1666666666667
+"1312","TCGA-X6-A8C2-01A-11R-A36F-07","Primary Tumor","Not Reported",56,1070,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",35.6666666666667
+"1321","TCGA-X9-A973-01A-11R-A38C-07","Primary Tumor","Not Reported",55,1108,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",36.9333333333333
+"1331","TCGA-LI-A9QH-01A-11R-A37L-07","Primary Tumor","Not Reported",72,406,"Dead","540","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",13.5333333333333
+"1341","TCGA-QQ-A5V9-01A-11R-A32Q-07","Primary Tumor","Not Reported",76,NA,"Dead","1424","no","Not Reported","Connective, subcutaneous and other soft tissues, NOS","male","not hispanic or latino","SARC",NA
+"1351","TCGA-DX-AB3C-01A-11R-A41I-07","Primary Tumor","Not Reported",27,2169,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",72.3
+"1361","TCGA-DX-A1L3-01A-11R-A24X-07","Primary Tumor","Not Reported",60,960,"Dead","1020","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",32
+"1371","TCGA-DX-A6BG-01A-11R-A30C-07","Primary Tumor","Not Reported",51,1121,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",37.3666666666667
+"1381","TCGA-DX-AB2F-01A-11R-A38C-07","Primary Tumor","Not Reported",76,365,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",12.1666666666667
+"1391","TCGA-SI-AA8C-01A-11R-A38C-07","Primary Tumor","Not Reported",20,597,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",19.9
+"1401","TCGA-K1-A42X-01A-11R-A24X-07","Primary Tumor","Not Reported",62,3765,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",125.5
+"1413","TCGA-MB-A8JL-01A-11R-A36F-07","Primary Tumor","Not Reported",53,600,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","Not Reported","SARC",20
+"1421","TCGA-DX-A6B8-01A-11R-A30C-07","Primary Tumor","Not Reported",80,NA,"Dead","485","no","Not Reported","Connective, subcutaneous and other soft tissues, NOS","male","Not Reported","SARC",NA
+"1431","TCGA-HB-A43Z-01A-11R-A24X-07","Primary Tumor","Not Reported",58,1126,"Alive","Not Reported","yes","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",37.5333333333333
+"1441","TCGA-QC-A6FX-01A-11R-A32Q-07","Primary Tumor","Not Reported",68,637,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","SARC",21.2333333333333
+"1451","TCGA-3B-A9HU-01A-11R-A39D-07","Primary Tumor","Not Reported",53,768,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",25.6
+"1461","TCGA-3B-A9I1-01A-11R-A39D-07","Primary Tumor","Not Reported",56,NA,"Dead","567","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",NA
+"1471","TCGA-PC-A5DM-01A-11R-A27Q-07","Primary Tumor","Not Reported",73,NA,"Dead","193","yes","Not Reported","Connective, subcutaneous and other soft tissues, NOS","male","not hispanic or latino","SARC",NA
+"1481","TCGA-3B-A9I0-01A-11R-A39D-07","Primary Tumor","Not Reported",33,1096,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",36.5333333333333
+"1491","TCGA-3B-A9HL-01A-11R-A38C-07","Primary Tumor","Not Reported",67,NA,"Dead","599","no","Not Reported","Specified parts of peritoneum","male","not hispanic or latino","SARC",NA
+"1501","TCGA-WK-A8Y0-01A-11R-A41I-07","Primary Tumor","Not Reported",49,NA,"Dead","688","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",NA
+"1511","TCGA-DX-A3UA-01A-12R-A30C-07","Primary Tumor","Not Reported",47,NA,"Dead","325","no","Not Reported","Short bones of lower limb and associated joints","female","not hispanic or latino","SARC",NA
+"1521","TCGA-DX-A8BQ-01A-11R-A37L-07","Primary Tumor","Not Reported",63,1579,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",52.6333333333333
+"1531","TCGA-DX-A23R-01A-11R-A26T-07","Primary Tumor","Not Reported",56,2271,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",75.7
+"1541","TCGA-DX-A6YS-01A-12R-A355-07","Primary Tumor","Not Reported",61,2381,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","Not Reported","SARC",79.3666666666667
+"1551","TCGA-DX-A7EM-01A-11R-A36F-07","Primary Tumor","Not Reported",61,1892,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",63.0666666666667
+"1561","TCGA-DX-AB2S-01A-11R-A39D-07","Primary Tumor","Not Reported",53,280,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","female","hispanic or latino","SARC",9.33333333333333
+"1571","TCGA-DX-A1KY-01A-11R-A24X-07","Primary Tumor","Not Reported",66,NA,"Dead","391","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"1581","TCGA-3B-A9HR-01A-11R-A38C-07","Primary Tumor","Not Reported",38,2577,"Dead","2694","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",85.9
+"1591","TCGA-KD-A5QT-01A-11R-A27Q-07","Primary Tumor","Not Reported",69,499,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",16.6333333333333
+"1601","TCGA-PC-A5DK-01A-11R-A27Q-07","Primary Tumor","Not Reported",63,3740,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",124.666666666667
+"1613","TCGA-IW-A3M5-01A-22R-A21T-07","Primary Tumor","Not Reported",76,NA,"Dead","180","no","Not Reported","Uterus, NOS","female","Not Reported","SARC",NA
+"1621","TCGA-WK-A8XS-01A-11R-A37L-07","Primary Tumor","Not Reported",58,2579,"Alive","Not Reported","no","Not Reported","Stomach, NOS","female","not hispanic or latino","SARC",85.9666666666667
+"1631","TCGA-HB-A5W3-01A-11R-A29R-07","Primary Tumor","Not Reported",58,NA,"Dead","384","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1641","TCGA-X6-A7W8-01A-21R-A355-07","Primary Tumor","Not Reported",89,NA,"Dead","24","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",NA
+"1651","TCGA-DX-A6Z0-01A-13R-A36F-07","Primary Tumor","Not Reported",78,NA,"Dead","1953","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","Not Reported","SARC",NA
+"1661","TCGA-DX-AB3A-01A-11R-A41I-07","Primary Tumor","Not Reported",80,NA,"Dead","978","yes","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"1671","TCGA-DX-A6B9-01A-12R-A32Q-07","Primary Tumor","Not Reported",45,1138,"Alive","Not Reported","no","Not Reported","Overlapping lesion of connective, subcutaneous and other soft tissues","female","not hispanic or latino","SARC",37.9333333333333
+"1681","TCGA-JV-A5VF-01A-11R-A29R-07","Primary Tumor","Not Reported",69,NA,"Dead","32","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",NA
+"1691","TCGA-RN-A68Q-01A-11R-A30C-07","Primary Tumor","Not Reported",62,22,"Alive","Not Reported","no","Not Reported","Spinal meninges","female","not hispanic or latino","SARC",0.733333333333333
+"1701","TCGA-DX-A7EU-01A-22R-A36F-07","Primary Tumor","Not Reported",80,721,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",24.0333333333333
+"1712","TCGA-DX-A48L-01A-11R-A30C-07","Primary Tumor","Not Reported",49,NA,"Dead","738","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"1721","TCGA-PC-A5DN-01A-12R-A27Q-07","Primary Tumor","Not Reported",77,NA,"Dead","1175","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"1731","TCGA-IS-A3K8-01A-11R-A21T-07","Primary Tumor","Not Reported",44,4845,"Alive","Not Reported","yes","Not Reported","Uterus, NOS","female","Not Reported","SARC",161.5
+"1741","TCGA-Z4-A8JB-01A-23R-A37L-07","Primary Tumor","Not Reported",24,133,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",4.43333333333333
+"1751","TCGA-DX-A48P-01A-11R-A30C-07","Primary Tumor","Not Reported",54,1400,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",46.6666666666667
+"1761","TCGA-RN-AAAQ-01A-21R-A39D-07","Primary Tumor","Not Reported",52,510,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of head, face, and neck","male","not hispanic or latino","SARC",17
+"1771","TCGA-X6-A7WD-01A-21R-A355-07","Primary Tumor","Not Reported",63,938,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",31.2666666666667
+"1781","TCGA-DX-A3LU-01A-11R-A21T-07","Primary Tumor","Not Reported",60,2641,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",88.0333333333333
+"1791","TCGA-DX-A3LT-01A-12R-A21T-07","Primary Tumor","Not Reported",62,1492,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","male","not hispanic or latino","SARC",49.7333333333333
+"1801","TCGA-IS-A3K6-01A-11R-A21T-07","Primary Tumor","Not Reported",55,NA,"Dead","858","yes","Not Reported","Uterus, NOS","female","Not Reported","SARC",NA
+"1813","TCGA-DX-A6YX-01A-11R-A41I-07","Primary Tumor","Not Reported",68,NA,"Dead","513","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","Not Reported","SARC",NA
+"1821","TCGA-DX-A8BT-01A-11R-A37L-07","Primary Tumor","Not Reported",63,1230,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",41
+"183","TCGA-DX-A7EL-01A-12R-A36F-07","Primary Tumor","Not Reported",56,2291,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",76.3666666666667
+"184","TCGA-DX-A48U-01A-11R-A30C-07","Primary Tumor","Not Reported",57,3310,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",110.333333333333
+"185","TCGA-KD-A5QS-01A-11R-A27Q-07","Primary Tumor","Not Reported",55,1106,"Dead","1941","no","Not Reported","Myometrium","female","not hispanic or latino","SARC",36.8666666666667
+"186","TCGA-K1-A3PN-01A-11R-A22K-07","Primary Tumor","Not Reported",64,3080,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",102.666666666667
+"187","TCGA-3B-A9HO-01A-11R-A38C-07","Primary Tumor","Not Reported",75,959,"Alive","Not Reported","yes","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",31.9666666666667
+"188","TCGA-DX-AB2O-01A-12R-A39D-07","Primary Tumor","Not Reported",78,2619,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",87.3
+"189","TCGA-3B-A9HP-01A-11R-A38C-07","Primary Tumor","Not Reported",57,NA,"Dead","1627","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"190","TCGA-DX-A3UC-01A-11R-A30C-07","Primary Tumor","Not Reported",37,2085,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",69.5
+"191","TCGA-K1-A6RV-01A-11R-A32Q-07","Primary Tumor","Not Reported",67,158,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",5.26666666666667
+"192","TCGA-FX-A3NJ-01A-11R-A21T-07","Primary Tumor","Not Reported",54,947,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",31.5666666666667
+"193","TCGA-DX-A3UB-01A-11R-A30C-07","Primary Tumor","Not Reported",54,2247,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",74.9
+"194","TCGA-FX-A3RE-01A-11R-A22K-07","Primary Tumor","Not Reported",65,660,"Alive","Not Reported","no","Not Reported","Ovary","female","not hispanic or latino","SARC",22
+"195","TCGA-MJ-A68H-01A-11R-A30C-07","Primary Tumor","Not Reported",57,456,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",15.2
+"196","TCGA-K1-A42W-01A-11R-A24X-07","Primary Tumor","Not Reported",65,1891,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",63.0333333333333
+"197","TCGA-IF-A3RQ-01A-11R-A22K-07","Primary Tumor","Not Reported",70,NA,"Dead","1129","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"198","TCGA-3B-A9HQ-01A-11R-A38C-07","Primary Tumor","Not Reported",66,2085,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",69.5
+"199","TCGA-DX-A1L0-01A-11R-A24X-07","Primary Tumor","Not Reported",58,NA,"Dead","564","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"200","TCGA-X6-A7WA-01A-12R-A355-07","Primary Tumor","Not Reported",90,0,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",0
+"201","TCGA-MO-A47R-01A-11R-A24X-07","Primary Tumor","Not Reported",75,3,"Dead","318","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",0.1
+"202","TCGA-DX-AB30-01A-11R-A39D-07","Primary Tumor","Not Reported",53,NA,"Dead","695","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"203","TCGA-IE-A6BZ-01A-11R-A30C-07","Primary Tumor","Not Reported",65,605,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","female","not hispanic or latino","SARC",20.1666666666667
+"204","TCGA-X6-A7WB-01A-11R-A355-07","Primary Tumor","Not Reported",58,NA,"Dead","550","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",NA
+"205","TCGA-DX-A7EF-01A-11R-A33J-07","Primary Tumor","Not Reported",88,NA,"Dead","570","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"206","TCGA-MB-A8JK-01A-11R-A36F-07","Primary Tumor","Not Reported",49,661,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",22.0333333333333
+"207","TCGA-DX-A1L4-01A-12R-A26T-07","Primary Tumor","Not Reported",60,2036,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",67.8666666666667
+"208","TCGA-DX-A23U-01A-11R-A26T-07","Primary Tumor","Not Reported",81,NA,"Dead","2324","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",NA
+"209","TCGA-DX-A3U5-01A-11R-A22K-07","Primary Tumor","Not Reported",52,969,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",32.3
+"210","TCGA-DX-A48N-01A-11R-A30C-07","Primary Tumor","Not Reported",47,1073,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",35.7666666666667
+"211","TCGA-DX-A8BM-01A-11R-A41I-07","Primary Tumor","Not Reported",60,1456,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",48.5333333333333
+"212","TCGA-DX-AB2Z-01A-11R-A38C-07","Primary Tumor","Not Reported",87,1092,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","female","not hispanic or latino","SARC",36.4
+"213","TCGA-DX-AB3B-01A-11R-A41I-07","Primary Tumor","Not Reported",28,1548,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",51.6
+"214","TCGA-DX-A8BJ-01A-11R-A41I-07","Primary Tumor","Not Reported",76,NA,"Dead","284","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","SARC",NA
+"215","TCGA-PC-A5DL-01A-11R-A26T-07","Primary Tumor","Not Reported",67,NA,"Dead","1142","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"216","TCGA-IF-A4AK-01A-21R-A24X-07","Primary Tumor","Not Reported",82,1590,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",53
+"217","TCGA-DX-AB2X-01A-11R-A38C-07","Primary Tumor","Not Reported",73,NA,"Dead","404","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",NA
+"218","TCGA-DX-A7ES-01A-31R-A39D-07","Primary Tumor","Not Reported",50,610,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",20.3333333333333
+"219","TCGA-MO-A47P-01A-11R-A24X-07","Primary Tumor","Not Reported",37,352,"Alive","Not Reported","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",11.7333333333333
+"220","TCGA-DX-A48R-01A-11R-A30C-07","Primary Tumor","Not Reported",41,805,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",26.8333333333333
+"221","TCGA-FX-A3NK-01A-11R-A21T-07","Primary Tumor","Not Reported",53,505,"Alive","Not Reported","yes","Not Reported","Stomach, NOS","male","not hispanic or latino","SARC",16.8333333333333
+"222","TCGA-QC-AA9N-01A-11R-A39D-07","Primary Tumor","Not Reported",53,537,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","female","not hispanic or latino","SARC",17.9
+"223","TCGA-DX-A7ER-01A-11R-A36F-07","Primary Tumor","Not Reported",69,NA,"Dead","1466","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","Not Reported","SARC",NA
+"224","TCGA-SI-A71O-01A-12R-A33J-07","Primary Tumor","Not Reported",29,545,"Dead","694","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",18.1666666666667
+"225","TCGA-3B-A9I3-01A-11R-A39D-07","Primary Tumor","Not Reported",62,808,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",26.9333333333333
+"226","TCGA-X6-A8C7-01A-11R-A36F-07","Primary Tumor","Not Reported",24,896,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",29.8666666666667
+"227","TCGA-X9-A971-01A-11R-A38C-07","Primary Tumor","Not Reported",52,831,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","female","not hispanic or latino","SARC",27.7
+"228","TCGA-PC-A5DO-01A-11R-A26T-07","Primary Tumor","Not Reported",59,NA,"Dead","2464","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"229","TCGA-X6-A8C4-01A-11R-A36F-07","Primary Tumor","Not Reported",70,512,"Dead","628","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",17.0666666666667
+"230","TCGA-SI-A71Q-01A-12R-A33J-07","Primary Tumor","Not Reported",34,996,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","female","not hispanic or latino","SARC",33.2
+"231","TCGA-DX-A3M1-01A-11R-A22K-07","Primary Tumor","Not Reported",79,1359,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",45.3
+"232","TCGA-QQ-A5V2-01A-11R-A32Q-07","Primary Tumor","Not Reported",42,56,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",1.86666666666667
+"233","TCGA-IE-A4EI-01A-11R-A24X-07","Primary Tumor","Not Reported",67,594,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",19.8
+"234","TCGA-KF-A41W-01A-11R-A24X-07","Primary Tumor","Not Reported",71,356,"Alive","Not Reported","yes","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",11.8666666666667
+"235","TCGA-DX-AB2E-01A-11R-A39D-07","Primary Tumor","Not Reported",60,541,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","not hispanic or latino","SARC",18.0333333333333
+"236","TCGA-JV-A75J-01A-11R-A32Q-07","Primary Tumor","Not Reported",43,NA,"Dead","119","no","Not Reported","Uterus, NOS","female","hispanic or latino","SARC",NA
+"237","TCGA-DX-AB32-01A-11R-A41I-07","Primary Tumor","Not Reported",51,3102,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of thorax","male","Not Reported","SARC",103.4
+"238","TCGA-DX-A3U8-01A-11R-A29R-07","Primary Tumor","Not Reported",43,NA,"Dead","138","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",NA
+"239","TCGA-SG-A849-01A-11R-A355-07","Primary Tumor","Not Reported",78,533,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","male","not hispanic or latino","SARC",17.7666666666667
+"240","TCGA-Z4-AAPF-01A-11R-A39D-07","Primary Tumor","Not Reported",35,485,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","female","not hispanic or latino","SARC",16.1666666666667
+"241","TCGA-JV-A5VE-01A-11R-A29R-07","Primary Tumor","Not Reported",60,499,"Alive","Not Reported","no","Not Reported","Uterus, NOS","female","not hispanic or latino","SARC",16.6333333333333
+"242","TCGA-QQ-A5VD-01A-21R-A32Q-07","Primary Tumor","Not Reported",52,1129,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues, NOS","male","not hispanic or latino","SARC",37.6333333333333
+"243","TCGA-MB-A5Y9-01A-11R-A29R-07","Primary Tumor","Not Reported",90,0,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",0
+"244","TCGA-DX-A8BL-01A-11R-A41I-07","Primary Tumor","Not Reported",59,1373,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of upper limb and shoulder","male","not hispanic or latino","SARC",45.7666666666667
+"245","TCGA-DX-A1KU-01A-32R-A24X-07","Primary Tumor","Not Reported",82,NA,"Dead","427","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"246","TCGA-DX-A3U7-01A-11R-A29R-07","Primary Tumor","Not Reported",67,1301,"Dead","1552","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",43.3666666666667
+"247","TCGA-PC-A5DP-01A-11R-A26T-07","Primary Tumor","Not Reported",72,NA,"Dead","550","yes","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"248","TCGA-3R-A8YX-01A-11R-A37L-07","Primary Tumor","Not Reported",66,NA,"Dead","17","no","Not Reported","Retroperitoneum","male","Not Reported","SARC",NA
+"249","TCGA-WK-A8XY-01A-11R-A37L-07","Primary Tumor","Not Reported",53,NA,"Dead","1991","no","Not Reported","Retroperitoneum","female","not hispanic or latino","SARC",NA
+"250","TCGA-QQ-A5VC-01A-31R-A32Q-07","Primary Tumor","Not Reported",63,1092,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues, NOS","female","not hispanic or latino","SARC",36.4
+"251","TCGA-DX-A1KW-01A-22R-A24X-07","Primary Tumor","Not Reported",67,62,"Dead","995","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",2.06666666666667
+"252","TCGA-DX-AB2T-01A-11R-A38C-07","Primary Tumor","Not Reported",54,2369,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",78.9666666666667
+"253","TCGA-WK-A8XX-01A-11R-A37L-07","Primary Tumor","Not Reported",70,NA,"Dead","1164","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"254","TCGA-QQ-A8VG-01A-11R-A37L-07","Primary Tumor","Not Reported",52,1892,"Dead","1970","no","Not Reported","Connective, subcutaneous and other soft tissues of trunk, NOS","male","not hispanic or latino","SARC",63.0666666666667
+"255","TCGA-DX-AB2P-01A-11R-A38C-07","Primary Tumor","Not Reported",79,NA,"Dead","367","yes","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","male","not hispanic or latino","SARC",NA
+"256","TCGA-DX-A8BO-01A-11R-A41I-07","Primary Tumor","Not Reported",67,1240,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","not hispanic or latino","SARC",41.3333333333333
+"257","TCGA-DX-A6BE-01A-41R-A32Q-07","Primary Tumor","Not Reported",77,881,"Alive","Not Reported","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",29.3666666666667
+"258","TCGA-WP-A9GB-01A-11R-A37L-07","Primary Tumor","Not Reported",NA,NA,"Dead","261","no","Not Reported","Myometrium","female","not hispanic or latino","SARC",NA
+"259","TCGA-3B-A9HJ-01A-11R-A38C-07","Primary Tumor","Not Reported",68,1104,"Alive","Not Reported","yes","Not Reported","Connective, subcutaneous and other soft tissues of pelvis","male","not hispanic or latino","SARC",36.8
+"260","TCGA-DX-AB2Q-01A-11R-A39D-07","Primary Tumor","Not Reported",65,2030,"Alive","Not Reported","no","Not Reported","Connective, subcutaneous and other soft tissues of lower limb and hip","female","hispanic or latino","SARC",67.6666666666667
+"261","TCGA-3B-A9HS-01A-11R-A39D-07","Primary Tumor","Not Reported",60,NA,"Dead","1366","no","Not Reported","Retroperitoneum","male","not hispanic or latino","SARC",NA
+"1104","TCGA-XU-AAXZ-01A-11R-A466-07","Primary Tumor","Not Reported",63,1537,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",51.2333333333333
+"266","TCGA-4X-A9FD-01A-11R-A42C-07","Primary Tumor","Not Reported",43,1503,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",50.1
+"316","TCGA-ZB-A96G-01A-11R-A42S-07","Primary Tumor","Not Reported",59,1606,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",53.5333333333333
+"414","TCGA-ZB-A96D-01A-11R-A42S-07","Primary Tumor","Not Reported",52,1960,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",65.3333333333333
+"515","TCGA-XM-A8RI-01A-12R-A42C-07","Primary Tumor","Not Reported",77,387,"Alive","Not Reported","no","Not Reported","Thymus","male","Not Reported","THYM",12.9
+"615","TCGA-3Q-A9WF-01A-11R-A42C-07","Primary Tumor","Not Reported",71,467,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",15.5666666666667
+"713","TCGA-5V-A9RR-01A-11R-A42C-07","Primary Tumor","Not Reported",67,827,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",27.5666666666667
+"814","TCGA-X7-A8M4-01A-11R-A42C-07","Primary Tumor","Not Reported",41,3808,"Alive","Not Reported","no","Not Reported","Mediastinum, NOS","male","not hispanic or latino","THYM",126.933333333333
+"914","TCGA-ZB-A966-01A-11R-A42S-07","Primary Tumor","Not Reported",78,NA,"Dead","379","no","Not Reported","Thymus","female","not hispanic or latino","THYM",NA
+"1013","TCGA-YT-A95H-01A-11R-A42S-07","Primary Tumor","Not Reported",69,711,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","Not Reported","THYM",23.7
+"1114","TCGA-ZB-A964-01A-11R-A42S-07","Primary Tumor","Not Reported",70,1287,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",42.9
+"1214","TCGA-XM-A8R8-01A-11R-A42C-07","Primary Tumor","Not Reported",67,1598,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",53.2666666666667
+"1313","TCGA-XU-A932-01A-11R-A42C-07","Primary Tumor","Not Reported",37,2149,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",71.6333333333333
+"1414","TCGA-X7-A8M3-01A-11R-A42C-07","Primary Tumor","Not Reported",64,50,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",1.66666666666667
+"1512","TCGA-XM-AAZ3-01A-11R-A42C-07","Primary Tumor","Not Reported",64,1150,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",38.3333333333333
+"1614","TCGA-XM-AAZ2-01A-11R-A42C-07","Primary Tumor","Not Reported",73,981,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",32.7
+"1713","TCGA-X7-A8M1-01A-11R-A42C-07","Primary Tumor","Not Reported",51,1282,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",42.7333333333333
+"1814","TCGA-XU-AAXW-01A-11R-A42C-07","Primary Tumor","Not Reported",39,3762,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",125.4
+"1913","TCGA-X7-A8M8-01A-11R-A42C-07","Primary Tumor","Not Reported",45,2533,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",84.4333333333333
+"2013","TCGA-XU-A936-01A-11R-A42C-07","Primary Tumor","Not Reported",65,643,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",21.4333333333333
+"2112","TCGA-ZB-A96M-01A-11R-A42S-07","Primary Tumor","Not Reported",56,14,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",0.466666666666667
+"2213","TCGA-5G-A9ZZ-01A-31R-A42C-07","Primary Tumor","Not Reported",52,835,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",27.8333333333333
+"2312","TCGA-4V-A9QN-01A-11R-A42C-07","Primary Tumor","Not Reported",40,970,"Alive","Not Reported","no","Not Reported","Thymus","female","hispanic or latino","THYM",32.3333333333333
+"2412","TCGA-3G-AB0O-01A-22R-A42C-07","Primary Tumor","Not Reported",48,2086,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",69.5333333333333
+"2513","TCGA-4V-A9QT-01A-11R-A42C-07","Primary Tumor","Not Reported",79,813,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",27.1
+"267","TCGA-X7-A8DB-01A-11R-A42C-07","Primary Tumor","Not Reported",71,1992,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",66.4
+"273","TCGA-XM-A8R9-01A-31R-A42C-07","Primary Tumor","Not Reported",71,1488,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",49.6
+"284","TCGA-X7-A8M7-01A-11R-A42C-07","Primary Tumor","Not Reported",26,1972,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",65.7333333333333
+"294","TCGA-XU-AAXX-01A-11R-A42C-07","Primary Tumor","Not Reported",44,2721,"Alive","Not Reported","no","Not Reported","Thymus","female","Not Reported","THYM",90.7
+"304","TCGA-XU-A931-01A-11R-A42C-07","Primary Tumor","Not Reported",61,NA,"Dead","1609","no","Not Reported","Thymus","female","Not Reported","THYM",NA
+"317","TCGA-ZB-A96E-01A-11R-A42S-07","Primary Tumor","Not Reported",60,1819,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",60.6333333333333
+"333","TCGA-X7-A8D6-01A-11R-A42C-07","Primary Tumor","Not Reported",48,4225,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",140.833333333333
+"344","TCGA-ZC-AAAA-01A-11R-A42S-07","Primary Tumor","Not Reported",39,819,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","hispanic or latino","THYM",27.3
+"353","TCGA-3G-AB0Q-01A-11R-A42C-07","Primary Tumor","Not Reported",67,1799,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",59.9666666666667
+"362","TCGA-YT-A95F-01A-11R-A42C-07","Primary Tumor","Not Reported",55,775,"Alive","Not Reported","yes","Not Reported","Anterior mediastinum","female","Not Reported","THYM",25.8333333333333
+"374","TCGA-XU-AAXY-01A-11R-A42C-07","Primary Tumor","Not Reported",43,1891,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",63.0333333333333
+"384","TCGA-ZB-A96R-01A-11R-A42S-07","Primary Tumor","Not Reported",38,1804,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",60.1333333333333
+"394","TCGA-XU-AAXV-01A-11R-A42C-07","Primary Tumor","Not Reported",45,4070,"Alive","Not Reported","no","Not Reported","Thymus","female","hispanic or latino","THYM",135.666666666667
+"404","TCGA-3G-AB19-01A-21R-A42C-07","Primary Tumor","Not Reported",76,2756,"Dead","2910","yes","Not Reported","Thymus","female","not hispanic or latino","THYM",91.8666666666667
+"415","TCGA-X7-A8D9-01A-11R-A42C-07","Primary Tumor","Not Reported",NA,NA,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",NA
+"423","TCGA-4V-A9QR-01A-11R-A42C-07","Primary Tumor","Not Reported",51,780,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",26
+"434","TCGA-X7-A8D8-01A-11R-A42C-07","Primary Tumor","Not Reported",53,58,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",1.93333333333333
+"444","TCGA-X7-A8D7-01A-11R-A42C-07","Primary Tumor","Not Reported",47,325,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",10.8333333333333
+"453","TCGA-4X-A9FA-01A-11R-A42C-07","Primary Tumor","Not Reported",52,392,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",13.0666666666667
+"463","TCGA-YT-A95E-01A-11R-A42C-07","Primary Tumor","Not Reported",52,1070,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","Not Reported","THYM",35.6666666666667
+"473","TCGA-3G-AB0T-01A-11R-A42C-07","Primary Tumor","Not Reported",45,NA,"Dead","2488","no","Not Reported","Mediastinum, NOS","male","not hispanic or latino","THYM",NA
+"482","TCGA-XM-A8RD-01A-11R-A42C-07","Primary Tumor","Not Reported",69,1546,"Alive","Not Reported","yes","Not Reported","Thymus","female","not hispanic or latino","THYM",51.5333333333333
+"492","TCGA-3G-AB14-01A-11R-A42C-07","Primary Tumor","Not Reported",51,540,"Dead","775","no","Not Reported","Thymus","male","not hispanic or latino","THYM",18
+"502","TCGA-X7-A8DF-01A-11R-A42C-07","Primary Tumor","Not Reported",40,901,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",30.0333333333333
+"516","TCGA-YT-A95G-01A-11R-A42S-07","Primary Tumor","Not Reported",61,1514,"Alive","Not Reported","no","Not Reported","Thymus","female","Not Reported","THYM",50.4666666666667
+"523","TCGA-XU-AAY0-01A-11R-A42C-07","Primary Tumor","Not Reported",62,1502,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",50.0666666666667
+"532","TCGA-ZB-A96V-01A-11R-A42S-07","Primary Tumor","Not Reported",44,932,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",31.0666666666667
+"542","TCGA-4V-A9QJ-01A-11R-A42C-07","Primary Tumor","Not Reported",64,2849,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",94.9666666666667
+"553","TCGA-ZB-A965-01A-11R-A42S-07","Primary Tumor","Not Reported",75,816,"Alive","Not Reported","yes","Not Reported","Thymus","female","not hispanic or latino","THYM",27.2
+"563","TCGA-ZB-A96B-01A-11R-A42S-07","Primary Tumor","Not Reported",51,2211,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",73.7
+"573","TCGA-XU-A92V-01A-11R-A42C-07","Primary Tumor","Not Reported",73,NA,"Dead","124","no","Not Reported","Thymus","female","not hispanic or latino","THYM",NA
+"582","TCGA-ZL-A9V6-01A-11R-A42S-07","Primary Tumor","Not Reported",61,2096,"Alive","Not Reported","no","Not Reported","Thymus","male","Not Reported","THYM",69.8666666666667
+"593","TCGA-ZT-A8OM-01A-11R-A42S-07","Primary Tumor","Not Reported",73,1398,"Alive","Not Reported","no","Not Reported","Mediastinum, NOS","female","not hispanic or latino","THYM",46.6
+"603","TCGA-ZB-A96A-01A-11R-A42S-07","Primary Tumor","Not Reported",53,2354,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",78.4666666666667
+"616","TCGA-XM-A8RL-01A-11R-A42C-07","Primary Tumor","Not Reported",44,2562,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",85.4
+"622","TCGA-XM-A8RG-01A-11R-A42C-07","Primary Tumor","Not Reported",67,386,"Alive","Not Reported","yes","Not Reported","Thymus","male","not hispanic or latino","THYM",12.8666666666667
+"633","TCGA-XU-A92Y-01A-11R-A42C-07","Primary Tumor","Not Reported",71,NA,"Dead","3488","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",NA
+"643","TCGA-XU-A933-01A-11R-A42C-07","Primary Tumor","Not Reported",52,1789,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",59.6333333333333
+"652","TCGA-YT-A95D-01A-11R-A42C-07","Primary Tumor","Not Reported",50,750,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","Not Reported","THYM",25
+"663","TCGA-4V-A9QI-01A-11R-A42C-07","Primary Tumor","Not Reported",68,2936,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",97.8666666666667
+"673","TCGA-4V-A9QL-01A-11R-A42C-07","Primary Tumor","Not Reported",58,1908,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",63.6
+"682","TCGA-5U-AB0D-01A-11R-A42C-07","Primary Tumor","Not Reported",71,714,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","hispanic or latino","THYM",23.8
+"693","TCGA-XM-AAZ1-01A-11R-A42C-07","Primary Tumor","Not Reported",42,397,"Alive","Not Reported","yes","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",13.2333333333333
+"702","TCGA-ZB-A96I-01A-11R-A42S-07","Primary Tumor","Not Reported",71,1653,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",55.1
+"714","TCGA-ZB-A96K-01A-11R-A42S-07","Primary Tumor","Not Reported",69,1388,"Alive","Not Reported","yes","Not Reported","Thymus","male","not hispanic or latino","THYM",46.2666666666667
+"723","TCGA-4V-A9QS-01A-11R-A42C-07","Primary Tumor","Not Reported",53,774,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",25.8
+"742","TCGA-ZB-A96C-01A-11R-A42S-07","Primary Tumor","Not Reported",77,2163,"Alive","Not Reported","yes","Not Reported","Thymus","female","not hispanic or latino","THYM",72.1
+"753","TCGA-XH-A853-01A-11R-A42C-07","Primary Tumor","Not Reported",67,1220,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",40.6666666666667
+"763","TCGA-XM-A8RE-01A-11R-A42C-07","Primary Tumor","Not Reported",54,422,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",14.0666666666667
+"772","TCGA-X7-A8DG-01A-11R-A42C-07","Primary Tumor","Not Reported",47,695,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",23.1666666666667
+"783","TCGA-ZB-A963-01A-11R-A42S-07","Primary Tumor","Not Reported",46,1482,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",49.4
+"793","TCGA-4V-A9QW-01A-11R-A42C-07","Primary Tumor","Not Reported",62,630,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",21
+"802","TCGA-XU-A92U-01A-11R-A42C-07","Primary Tumor","Not Reported",67,4562,"Alive","Not Reported","no","Not Reported","Thymus","male","Not Reported","THYM",152.066666666667
+"815","TCGA-X7-A8DJ-01A-11R-A42C-07","Primary Tumor","Not Reported",68,289,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","hispanic or latino","THYM",9.63333333333333
+"822","TCGA-XU-A92T-01A-11R-A42C-07","Primary Tumor","Not Reported",81,1376,"Alive","Not Reported","no","Not Reported","Thymus","female","Not Reported","THYM",45.8666666666667
+"832","TCGA-4X-A9FC-01A-11R-A42C-07","Primary Tumor","Not Reported",50,2072,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",69.0666666666667
+"842","TCGA-3T-AA9L-01A-11R-A42C-07","Primary Tumor","Not Reported",31,1050,"Alive","Not Reported","no","Not Reported","Mediastinum, NOS","female","Not Reported","THYM",35
+"853","TCGA-4X-A9F9-01A-11R-A42C-07","Primary Tumor","Not Reported",57,669,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",22.3
+"863","TCGA-XM-A8RC-01A-11R-A42C-07","Primary Tumor","Not Reported",67,2963,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",98.7666666666667
+"873","TCGA-XU-A92W-01A-11R-A42C-07","Primary Tumor","Not Reported",61,3279,"Alive","Not Reported","no","Not Reported","Thymus","male","Not Reported","THYM",109.3
+"882","TCGA-ZB-A96H-01A-11R-A42S-07","Primary Tumor","Not Reported",73,1504,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",50.1333333333333
+"893","TCGA-5U-AB0F-01A-11R-A42C-07","Primary Tumor","Not Reported",58,459,"Alive","Not Reported","yes","Not Reported","Anterior mediastinum","female","hispanic or latino","THYM",15.3
+"903","TCGA-ZC-AAAF-01A-11R-A42S-07","Primary Tumor","Not Reported",74,1165,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",38.8333333333333
+"915","TCGA-ZB-A969-01A-11R-A42S-07","Primary Tumor","Not Reported",72,1046,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",34.8666666666667
+"922","TCGA-ZB-A96L-01A-11R-A42S-07","Primary Tumor","Not Reported",70,1529,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",50.9666666666667
+"932","TCGA-XU-A92Z-01A-11R-A42C-07","Primary Tumor","Not Reported",77,3663,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",122.1
+"942","TCGA-XU-A92X-01A-11R-A42C-07","Primary Tumor","Not Reported",18,2343,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",78.1
+"952","TCGA-ZB-A961-01A-11R-A42S-07","Primary Tumor","Not Reported",69,4,"Dead","180","no","Not Reported","Thymus","male","not hispanic or latino","THYM",0.133333333333333
+"962","TCGA-X7-A8M5-01A-11R-A42C-07","Primary Tumor","Not Reported",65,1645,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",54.8333333333333
+"972","TCGA-5U-AB0E-01A-11R-A42C-07","Primary Tumor","Not Reported",62,687,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","hispanic or latino","THYM",22.9
+"982","TCGA-XU-AAY1-01A-11R-A42C-07","Primary Tumor","Not Reported",51,3268,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",108.933333333333
+"992","TCGA-4V-A9QM-01A-11R-A42C-07","Primary Tumor","Not Reported",39,1253,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",41.7666666666667
+"1002","TCGA-4X-A9FB-01A-11R-A42C-07","Primary Tumor","Not Reported",44,717,"Alive","Not Reported","yes","Not Reported","Thymus","male","not hispanic or latino","THYM",23.9
+"1014","TCGA-ZB-A96F-01A-11R-A42S-07","Primary Tumor","Not Reported",39,1761,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",58.7
+"1022","TCGA-X7-A8M0-01A-11R-A42C-07","Primary Tumor","Not Reported",61,441,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",14.7
+"1031","TCGA-4V-A9QX-01A-11R-A42C-07","Primary Tumor","Not Reported",77,434,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",14.4666666666667
+"1042","TCGA-XU-A930-01A-11R-A42C-07","Primary Tumor","Not Reported",43,2514,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",83.8
+"1052","TCGA-XM-A8RH-01A-11R-A42C-07","Primary Tumor","Not Reported",60,363,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",12.1
+"1062","TCGA-3S-A8YW-01A-11R-A42C-07","Primary Tumor","Not Reported",63,643,"Alive","Not Reported","no","Not Reported","Thymus","male","hispanic or latino","THYM",21.4333333333333
+"1072","TCGA-ZB-A962-01A-11R-A42S-07","Primary Tumor","Not Reported",64,1647,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","not hispanic or latino","THYM",54.9
+"1082","TCGA-X7-A8DE-01A-11R-A42C-07","Primary Tumor","Not Reported",35,981,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",32.7
+"1092","TCGA-XM-A8RB-01A-11R-A42C-07","Primary Tumor","Not Reported",68,1144,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",38.1333333333333
+"1105","TCGA-ZC-AAAH-01A-11R-A42S-07","Primary Tumor","Not Reported",52,497,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","male","Not Reported","THYM",16.5666666666667
+"1115","TCGA-3S-AAYX-01A-11R-A42C-07","Primary Tumor","Not Reported",55,571,"Alive","Not Reported","no","Not Reported","Thymus","female","hispanic or latino","THYM",19.0333333333333
+"1122","TCGA-X7-A8M6-01A-11R-A42C-07","Primary Tumor","Not Reported",43,4575,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",152.5
+"1132","TCGA-5K-AAAP-01A-11R-A42C-07","Primary Tumor","Not Reported",54,1054,"Alive","Not Reported","no","Not Reported","Thymus","male","hispanic or latino","THYM",35.1333333333333
+"1142","TCGA-ZB-A96O-01A-11R-A42S-07","Primary Tumor","Not Reported",54,1050,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",35
+"1152","TCGA-4V-A9QU-01A-11R-A42C-07","Primary Tumor","Not Reported",76,627,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",20.9
+"1162","TCGA-XM-A8RF-01A-11R-A42C-07","Primary Tumor","Not Reported",84,797,"Alive","Not Reported","no","Not Reported","Anterior mediastinum","female","not hispanic or latino","THYM",26.5666666666667
+"1172","TCGA-XU-A92O-01A-11R-A42C-07","Primary Tumor","Not Reported",63,3410,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",113.666666666667
+"1182","TCGA-ZB-A96P-01A-11R-A42S-07","Primary Tumor","Not Reported",73,753,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",25.1
+"1192","TCGA-ZB-A96Q-01A-11R-A42S-07","Primary Tumor","Not Reported",49,675,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",22.5
+"1202","TCGA-XU-A92Q-01A-11R-A42C-07","Primary Tumor","Not Reported",50,1092,"Alive","Not Reported","no","Not Reported","Thymus","male","not hispanic or latino","THYM",36.4
+"1215","TCGA-ZC-AAA7-01A-11R-A42S-07","Primary Tumor","Not Reported",63,NA,"Dead","853","no","Not Reported","Thymus","male","not hispanic or latino","THYM",NA
+"1222","TCGA-X7-A8DD-01A-11R-A42C-07","Primary Tumor","Not Reported",54,1114,"Alive","Not Reported","no","Not Reported","Thymus","female","not hispanic or latino","THYM",37.1333333333333
+"1106","TCGA-06-0156-01A-03R-1849-01","Primary Tumor","Not Reported",57,164,"Dead","178","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.46666666666667
+"318","TCGA-32-4213-01A-01R-1850-01","Primary Tumor","Not Reported",47,604,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",20.1333333333333
+"416","TCGA-32-2634-01A-01R-1850-01","Primary Tumor","Not Reported",82,693,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",23.1
+"517","TCGA-06-0187-01A-01R-1849-01","Primary Tumor","Not Reported",69,801,"Dead","828","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",26.7
+"617","TCGA-12-3652-01A-01R-1849-01","Primary Tumor","Not Reported",60,1050,"Dead","1062","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",35
+"715","TCGA-06-0156-01A-02R-1849-01","Primary Tumor","Not Reported",57,164,"Dead","178","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.46666666666667
+"816","TCGA-26-5134-01A-01R-1850-01","Primary Tumor","Not Reported",74,167,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.56666666666667
+"916","TCGA-32-2638-01A-01R-1850-01","Primary Tumor","Not Reported",67,644,"Dead","766","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",21.4666666666667
+"1015","TCGA-06-0882-01A-01R-1849-01","Primary Tumor","Not Reported",30,165,"Dead","632","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.5
+"1216","TCGA-06-0168-01A-01R-1849-01","Primary Tumor","Not Reported",59,579,"Dead","598","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",19.3
+"1314","TCGA-28-5209-01A-01R-1850-01","Primary Tumor","Not Reported",66,442,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",14.7333333333333
+"1415","TCGA-14-1034-01A-01R-1849-01","Primary Tumor","Not Reported",60,485,"Dead","485","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",16.1666666666667
+"1513","TCGA-41-2572-01A-01R-1850-01","Primary Tumor","Not Reported",67,406,"Dead","406","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",13.5333333333333
+"1615","TCGA-06-0184-01A-01R-1849-01","Primary Tumor","Not Reported",63,1228,"Dead","2126","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",40.9333333333333
+"1714","TCGA-28-5204-01A-01R-1850-01","Primary Tumor","Not Reported",72,NA,"Dead","454","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",NA
+"1815","TCGA-32-5222-01A-01R-1850-01","Primary Tumor","Not Reported",66,323,"Dead","585","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.7666666666667
+"1914","TCGA-12-0616-01A-01R-1849-01","Primary Tumor","Not Reported",36,439,"Dead","448","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",14.6333333333333
+"2014","TCGA-15-0742-01A-01R-1850-01","Primary Tumor","Not Reported",65,NA,"Dead","419","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",NA
+"2113","TCGA-06-0749-01A-01R-1849-01","Primary Tumor","Not Reported",50,66,"Dead","82","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.2
+"2214","TCGA-06-0157-01A-01R-1849-01","Primary Tumor","Not Reported",63,97,"Dead","97","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",3.23333333333333
+"2313","TCGA-16-1045-01B-01R-1850-01","Primary Tumor","Not Reported",49,883,"Dead","883","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",29.4333333333333
+"2413","TCGA-06-5856-01A-01R-1849-01","Primary Tumor","Not Reported",58,114,"Dead","114","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",3.8
+"2514","TCGA-32-2615-01A-01R-1850-01","Primary Tumor","Not Reported",62,485,"Dead","485","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16.1666666666667
+"268","TCGA-19-2620-01A-01R-1850-01","Primary Tumor","Not Reported",70,148,"Dead","148","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.93333333333333
+"285","TCGA-06-0158-01A-01R-1849-01","Primary Tumor","Not Reported",73,166,"Dead","329","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.53333333333333
+"295","TCGA-06-2558-01A-01R-1849-01","Primary Tumor","Not Reported",75,23,"Dead","380","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",0.766666666666667
+"305","TCGA-06-0129-01A-01R-1849-01","Primary Tumor","Not Reported",30,989,"Dead","1024","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",32.9666666666667
+"319","TCGA-06-5858-01A-01R-1849-01","Primary Tumor","Not Reported",45,187,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",6.23333333333333
+"324","TCGA-06-2559-01A-01R-1849-01","Primary Tumor","Not Reported",83,150,"Dead","150","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5
+"334","TCGA-06-0210-01A-01R-1849-01","Primary Tumor","Not Reported",72,151,"Dead","225","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",5.03333333333333
+"345","TCGA-19-2629-01A-01R-1850-01","Primary Tumor","Not Reported",60,501,"Dead","737","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16.7
+"354","TCGA-06-0174-01A-01R-1849-01","Primary Tumor","Not Reported",54,67,"Dead","98","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.23333333333333
+"363","TCGA-19-2625-01A-01R-1850-01","Primary Tumor","Not Reported",76,124,"Dead","124","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",4.13333333333333
+"375","TCGA-06-0743-01A-01R-1849-01","Primary Tumor","Not Reported",69,679,"Dead","803","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",22.6333333333333
+"385","TCGA-06-2562-01A-01R-1849-01","Primary Tumor","Not Reported",81,86,"Dead","382","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.86666666666667
+"395","TCGA-19-2619-01A-01R-1850-01","Primary Tumor","Not Reported",55,294,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",9.8
+"405","TCGA-06-0646-01A-01R-1849-01","Primary Tumor","Not Reported",61,136,"Dead","175","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.53333333333333
+"417","TCGA-27-1831-01A-01R-1850-01","Primary Tumor","Not Reported",66,505,"Dead","505","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16.8333333333333
+"424","TCGA-12-0821-01A-01R-1849-01","Primary Tumor","Not Reported",62,323,"Dead","323","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.7666666666667
+"435","TCGA-41-5651-01A-01R-1850-01","Primary Tumor","Not Reported",59,351,"Dead","460","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",11.7
+"445","TCGA-06-2561-01A-02R-1849-01","Primary Tumor","Not Reported",53,282,"Dead","537","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",9.4
+"454","TCGA-26-5139-01A-01R-1850-01","Primary Tumor","Not Reported",65,48,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",1.6
+"464","TCGA-27-1832-01A-01R-1850-01","Primary Tumor","Not Reported",59,0,"Dead","300","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",0
+"474","TCGA-14-1825-01A-01R-1850-01","Primary Tumor","Not Reported",70,NA,"Dead","232","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",NA
+"483","TCGA-28-5218-01A-01R-1850-01","Primary Tumor","Not Reported",63,128,"Dead","157","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",4.26666666666667
+"493","TCGA-76-4928-01B-01R-1850-01","Primary Tumor","Not Reported",85,94,"Dead","94","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",3.13333333333333
+"503","TCGA-06-0238-01A-02R-1849-01","Primary Tumor","Not Reported",46,359,"Dead","405","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",11.9666666666667
+"518","TCGA-12-0618-01A-01R-1849-01","Primary Tumor","Not Reported",49,50,"Dead","395","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",1.66666666666667
+"524","TCGA-27-1834-01A-01R-1850-01","Primary Tumor","Not Reported",56,1008,"Dead","1233","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",33.6
+"533","TCGA-06-5417-01A-01R-1849-01","Primary Tumor","Not Reported",45,155,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",5.16666666666667
+"543","TCGA-06-0645-01A-01R-1849-01","Primary Tumor","Not Reported",56,98,"Dead","175","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",3.26666666666667
+"554","TCGA-76-4931-01A-01R-1850-01","Primary Tumor","Not Reported",70,279,"Dead","279","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",9.3
+"564","TCGA-14-0789-01A-01R-1849-01","Primary Tumor","Not Reported",54,342,"Dead","342","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",11.4
+"574","TCGA-28-2499-01A-01R-1850-01","Primary Tumor","Not Reported",59,95,"Not Reported","Not Reported","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",3.16666666666667
+"583","TCGA-28-5207-01A-01R-1850-01","Primary Tumor","Not Reported",71,275,"Dead","343","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",9.16666666666667
+"594","TCGA-06-2565-01A-01R-1849-01","Primary Tumor","Not Reported",59,207,"Dead","506","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",6.9
+"604","TCGA-28-1747-01C-01R-1850-01","Primary Tumor","Not Reported",44,77,"Dead","77","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.56666666666667
+"618","TCGA-19-2624-01A-01R-1850-01","Primary Tumor","Not Reported",51,5,"Dead","5","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",0.166666666666667
+"623","TCGA-06-5416-01A-01R-1849-01","Primary Tumor","Not Reported",23,204,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",6.8
+"634","TCGA-41-3915-01A-01R-1850-01","Primary Tumor","Not Reported",48,360,"Dead","360","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",12
+"644","TCGA-12-1597-01B-01R-1849-01","Primary Tumor","Not Reported",62,427,"Dead","675","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",14.2333333333333
+"653","TCGA-06-0219-01A-01R-1849-01","Primary Tumor","Not Reported",67,11,"Dead","22","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",0.366666666666667
+"664","TCGA-26-5132-01A-01R-1850-01","Primary Tumor","Not Reported",74,286,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",9.53333333333333
+"674","TCGA-06-0745-01A-01R-1849-01","Primary Tumor","Not Reported",59,164,"Dead","239","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.46666666666667
+"683","TCGA-02-0047-01A-01R-1849-01","Primary Tumor","Not Reported",78,448,"Dead","448","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",14.9333333333333
+"694","TCGA-14-1829-01A-01R-1850-01","Primary Tumor","Not Reported",57,218,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",7.26666666666667
+"703","TCGA-06-5411-01A-01R-1849-01","Primary Tumor","Not Reported",51,254,"Dead","254","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",8.46666666666667
+"716","TCGA-12-3653-01A-01R-1849-01","Primary Tumor","Not Reported",34,357,"Dead","442","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",11.9
+"724","TCGA-06-0747-01A-01R-1849-01","Primary Tumor","Not Reported",53,82,"Dead","82","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.73333333333333
+"733","TCGA-19-1787-01B-01R-1850-01","Primary Tumor","Not Reported",49,385,"Dead","385","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",12.8333333333333
+"743","TCGA-06-5859-01A-01R-1849-01","Primary Tumor","Not Reported",63,139,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.63333333333333
+"754","TCGA-14-0817-01A-01R-1849-01","Primary Tumor","Not Reported",69,164,"Dead","164","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",5.46666666666667
+"764","TCGA-06-0744-01A-01R-1849-01","Primary Tumor","Not Reported",67,595,"Dead","1426","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",19.8333333333333
+"773","TCGA-06-0178-01A-01R-1849-01","Primary Tumor","Not Reported",39,1642,"Dead","2681","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",54.7333333333333
+"784","TCGA-19-1390-01A-01R-1850-01","Primary Tumor","Not Reported",63,772,"Dead","772","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",25.7333333333333
+"794","TCGA-27-2521-01A-01R-1850-01","Primary Tumor","Not Reported",34,316,"Dead","510","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.5333333333333
+"803","TCGA-06-5418-01A-01R-1849-01","Primary Tumor","Not Reported",75,83,"Dead","83","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",2.76666666666667
+"817","TCGA-06-2567-01A-01R-1849-01","Primary Tumor","Not Reported",65,133,"Dead","133","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.43333333333333
+"823","TCGA-06-2569-01A-01R-1849-01","Primary Tumor","Not Reported",24,13,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",0.433333333333333
+"833","TCGA-28-5208-01A-01R-1850-01","Primary Tumor","Not Reported",52,474,"Dead","544","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",15.8
+"843","TCGA-16-0846-01A-01R-1850-01","Primary Tumor","Not Reported",85,119,"Dead","119","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",3.96666666666667
+"854","TCGA-12-0619-01A-01R-1849-01","Primary Tumor","Not Reported",60,316,"Dead","1062","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.5333333333333
+"864","TCGA-02-2485-01A-01R-1849-01","Primary Tumor","Not Reported",53,470,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",15.6666666666667
+"874","TCGA-28-2513-01A-01R-1850-01","Primary Tumor","Not Reported",69,222,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",7.4
+"883","TCGA-26-5136-01B-01R-1850-01","Primary Tumor","Not Reported",78,37,"Dead","577","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",1.23333333333333
+"894","TCGA-06-0750-01A-01R-1849-01","Primary Tumor","Not Reported",43,28,"Dead","28","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",0.933333333333333
+"904","TCGA-15-1444-01A-02R-1850-01","Primary Tumor","Not Reported",21,NA,"Dead","1537","no","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",NA
+"917","TCGA-06-0139-01A-01R-1849-01","Primary Tumor","Not Reported",40,327,"Dead","362","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.9
+"923","TCGA-32-2616-01A-01R-1850-01","Primary Tumor","Not Reported",48,224,"Dead","224","Not Reported","Not Reported","Brain, NOS","female","hispanic or latino","GBM",7.46666666666667
+"933","TCGA-06-0211-01B-01R-1849-01","Primary Tumor","Not Reported",47,360,"Dead","360","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",12
+"943","TCGA-06-0211-01A-01R-1849-01","Primary Tumor","Not Reported",47,360,"Dead","360","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",12
+"953","TCGA-32-2632-01A-01R-1850-01","Primary Tumor","Not Reported",80,NA,"Dead","269","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",NA
+"963","TCGA-06-0141-01A-01R-1849-01","Primary Tumor","Not Reported",62,280,"Dead","313","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",9.33333333333333
+"973","TCGA-06-1804-01A-01R-1849-01","Primary Tumor","Not Reported",81,414,"Dead","414","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",13.8
+"983","TCGA-28-2509-01A-01R-1850-01","Primary Tumor","Not Reported",77,145,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",4.83333333333333
+"993","TCGA-06-5408-01A-01R-1849-01","Primary Tumor","Not Reported",54,342,"Dead","357","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",11.4
+"1003","TCGA-02-2483-01A-01R-1849-01","Primary Tumor","Not Reported",43,466,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",15.5333333333333
+"1023","TCGA-14-2554-01A-01R-1850-01","Primary Tumor","Not Reported",52,532,"Dead","532","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",17.7333333333333
+"1032","TCGA-28-1753-01A-01R-1850-01","Primary Tumor","Not Reported",53,37,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","hispanic or latino","GBM",1.23333333333333
+"1043","TCGA-76-4927-01A-01R-1850-01","Primary Tumor","Not Reported",58,535,"Dead","535","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",17.8333333333333
+"1053","TCGA-26-5133-01A-01R-1850-01","Primary Tumor","Not Reported",59,452,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",15.0666666666667
+"1063","TCGA-14-1823-01A-01R-1849-01","Primary Tumor","Not Reported",58,543,"Dead","543","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",18.1
+"1073","TCGA-06-2570-01A-01R-1849-01","Primary Tumor","Not Reported",21,958,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",31.9333333333333
+"1083","TCGA-76-4929-01A-01R-1850-01","Primary Tumor","Not Reported",76,111,"Dead","111","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",3.7
+"1093","TCGA-27-1837-01A-01R-1850-01","Primary Tumor","Not Reported",36,427,"Dead","427","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",14.2333333333333
+"1107","TCGA-12-5295-01A-01R-1849-01","Primary Tumor","Not Reported",60,399,"Dead","454","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",13.3
+"1116","TCGA-26-1442-01A-01R-1850-01","Primary Tumor","Not Reported",43,953,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",31.7666666666667
+"1123","TCGA-28-5215-01A-01R-1850-01","Primary Tumor","Not Reported",62,237,"Dead","335","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",7.9
+"1133","TCGA-06-0125-01A-01R-1849-01","Primary Tumor","Not Reported",63,1439,"Dead","1448","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",47.9666666666667
+"1143","TCGA-06-0132-01A-02R-1849-01","Primary Tumor","Not Reported",49,570,"Dead","771","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",19
+"1153","TCGA-14-0787-01A-01R-1849-01","Primary Tumor","Not Reported",69,68,"Dead","68","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",2.26666666666667
+"1163","TCGA-14-0781-01B-01R-1849-01","Primary Tumor","Not Reported",49,29,"Dead","29","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",0.966666666666667
+"1173","TCGA-06-2563-01A-01R-1849-01","Primary Tumor","Not Reported",72,932,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",31.0666666666667
+"1183","TCGA-28-5216-01A-01R-1850-01","Primary Tumor","Not Reported",52,415,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",13.8333333333333
+"1193","TCGA-32-1982-01A-01R-1850-01","Primary Tumor","Not Reported",76,142,"Dead","142","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",4.73333333333333
+"1203","TCGA-27-2524-01A-01R-1850-01","Primary Tumor","Not Reported",56,231,"Dead","231","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",7.7
+"1217","TCGA-19-4065-01A-01R-2005-01","Primary Tumor","Not Reported",36,214,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","hispanic or latino","GBM",7.13333333333333
+"1223","TCGA-27-1835-01A-01R-1850-01","Primary Tumor","Not Reported",53,648,"Dead","648","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",21.6
+"1232","TCGA-27-2528-01A-01R-1850-01","Primary Tumor","Not Reported",62,480,"Dead","480","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16
+"1242","TCGA-76-4932-01A-01R-1850-01","Primary Tumor","Not Reported",50,1458,"Dead","1458","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",48.6
+"1252","TCGA-06-0686-01A-01R-1849-01","Primary Tumor","Not Reported",53,286,"Dead","432","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",9.53333333333333
+"1262","TCGA-02-0055-01A-01R-1849-01","Primary Tumor","Not Reported",62,76,"Dead","76","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",2.53333333333333
+"1272","TCGA-12-5299-01A-02R-1849-01","Primary Tumor","Not Reported",56,98,"Dead","98","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",3.26666666666667
+"1282","TCGA-06-2557-01A-01R-1849-01","Primary Tumor","Not Reported",76,33,"Dead","33","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",1.1
+"1292","TCGA-06-0138-01A-02R-1849-01","Primary Tumor","Not Reported",43,674,"Dead","737","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",22.4666666666667
+"1302","TCGA-06-0649-01B-01R-1849-01","Primary Tumor","Not Reported",73,62,"Dead","64","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",2.06666666666667
+"1315","TCGA-32-1970-01A-01R-1850-01","Primary Tumor","Not Reported",59,468,"Dead","468","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",15.6
+"1322","TCGA-06-5415-01A-01R-1849-01","Primary Tumor","Not Reported",60,260,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",8.66666666666667
+"1342","TCGA-27-1830-01A-01R-1850-01","Primary Tumor","Not Reported",57,146,"Dead","154","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.86666666666667
+"1352","TCGA-06-0190-01A-01R-1849-01","Primary Tumor","Not Reported",62,313,"Dead","317","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.4333333333333
+"1362","TCGA-76-4925-01A-01R-1850-01","Primary Tumor","Not Reported",76,146,"Dead","146","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",4.86666666666667
+"1372","TCGA-76-4926-01B-01R-1850-01","Primary Tumor","Not Reported",68,138,"Dead","138","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",4.6
+"1382","TCGA-28-5220-01A-01R-1850-01","Primary Tumor","Not Reported",67,319,"Dead","388","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",10.6333333333333
+"1392","TCGA-06-2564-01A-01R-1849-01","Primary Tumor","Not Reported",50,181,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",6.03333333333333
+"1402","TCGA-41-4097-01A-01R-1850-01","Primary Tumor","Not Reported",63,6,"Dead","6","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",0.2
+"1416","TCGA-27-2519-01A-01R-1850-01","Primary Tumor","Not Reported",48,316,"Dead","550","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.5333333333333
+"1422","TCGA-41-2571-01A-01R-1850-01","Primary Tumor","Not Reported",89,26,"Dead","26","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",0.866666666666667
+"1432","TCGA-14-0871-01A-01R-1849-01","Primary Tumor","Not Reported",75,880,"Dead","880","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",29.3333333333333
+"1442","TCGA-06-5414-01A-01R-1849-01","Primary Tumor","Not Reported",61,273,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",9.1
+"1452","TCGA-06-0130-01A-01R-1849-01","Primary Tumor","Not Reported",54,320,"Dead","394","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",10.6666666666667
+"1462","TCGA-06-5413-01A-01R-1849-01","Primary Tumor","Not Reported",67,268,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",8.93333333333333
+"1472","TCGA-14-0790-01B-01R-1849-01","Primary Tumor","Not Reported",64,419,"Dead","419","Not Reported","Not Reported","Brain, NOS","female","Not Reported","GBM",13.9666666666667
+"1482","TCGA-06-5410-01A-01R-1849-01","Primary Tumor","Not Reported",72,108,"Dead","108","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",3.6
+"1492","TCGA-06-0878-01A-01R-1849-01","Primary Tumor","Not Reported",74,218,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",7.26666666666667
+"1502","TCGA-06-0644-01A-02R-1849-01","Primary Tumor","Not Reported",71,375,"Dead","384","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",12.5
+"1514","TCGA-26-5135-01A-01R-1850-01","Primary Tumor","Not Reported",72,NA,"Dead","270","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",NA
+"1522","TCGA-28-5213-01A-01R-1850-01","Primary Tumor","Not Reported",72,951,"Not Reported","Not Reported","Not Reported","Not Reported","Brain, NOS","male","Not Reported","GBM",31.7
+"1532","TCGA-27-2526-01A-01R-1850-01","Primary Tumor","Not Reported",79,87,"Dead","87","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",2.9
+"1542","TCGA-02-2486-01A-01R-1849-01","Primary Tumor","Not Reported",64,493,"Dead","618","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16.4333333333333
+"1552","TCGA-28-2510-01A-01R-1850-01","Primary Tumor","Not Reported",NA,NA,"Not Reported","Not Reported","Not Reported","Not Reported","Not Reported","Not Reported","Not Reported","GBM",NA
+"1562","TCGA-27-2523-01A-01R-1850-01","Primary Tumor","Not Reported",63,489,"Dead","489","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",16.3
+"1572","TCGA-19-5960-01A-11R-1850-01","Primary Tumor","Not Reported",56,165,"Dead","455","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.5
+"1582","TCGA-28-2514-01A-02R-1850-01","Primary Tumor","Not Reported",45,160,"Alive","Not Reported","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",5.33333333333333
+"1592","TCGA-08-0386-01A-01R-1849-01","Primary Tumor","Not Reported",74,478,"Dead","548","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",15.9333333333333
+"1602","TCGA-12-3650-01A-01R-1849-01","Primary Tumor","Not Reported",46,333,"Dead","333","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",11.1
+"1616","TCGA-32-1980-01A-01R-1850-01","Primary Tumor","Not Reported",72,36,"Dead","36","Not Reported","Not Reported","Brain, NOS","male","not hispanic or latino","GBM",1.2
+"1622","TCGA-06-5412-01A-01R-1849-01","Primary Tumor","Not Reported",78,138,"Dead","138","Not Reported","Not Reported","Brain, NOS","female","not hispanic or latino","GBM",4.6
