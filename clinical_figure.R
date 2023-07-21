@@ -1,11 +1,14 @@
 #create infographic for the clinical data of the cohorts
 
+library(TCGAbiolinks)
 library(dplyr)
 library(ggplot2)
 library(ggpubr)
 library(gridExtra)
 library(scales)
 library(patchwork)
+library(survival)
+library(survminer)
 
 # run this in every cancer project and then import the .csv files
 # CHOL_clin <-data.frame(row.names = colnames(tcga_CHOLprim),
@@ -98,11 +101,11 @@ sex_plots <- ggplot(cancers_sex, aes(x = project, y = percentage, fill = sex)) +
                     "Sex") +
   ggtitle("Sex") + labs(y="Percentage", x="") + 
   scale_y_continuous(labels = scales::percent_format(),
-                     breaks = c(0.25, 0.5, 0.75))
+                     breaks = c(0.25, 0.5, 0.75)) +
   
-  
-  # ETHNICITY
-  cancers_ethnicity <- cancers_clin %>%
+
+# ETHNICITY
+cancers_ethnicity <- cancers_clin %>%
   group_by(project, ethnicity) %>%
   summarize(count = n()) %>%
   ungroup() %>%
@@ -118,8 +121,7 @@ ethnicity_plots <- ggplot(cancers_ethnicity, aes(x = project, y = percentage, fi
                     labels = c("Hispanic or Latino", "Not Hispanic or Latino", "Not Reported"),
                     "Ethnicity") +
   ggtitle("Ethnicity") +
-  scale_x_discrete(labels = NULL, breaks = NULL) + 
-  labs(x = "", y = "Percentage") +
+  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y = "Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -141,8 +143,7 @@ vital_plots <- ggplot(cancers_vital, aes(x = project, y = percentage, fill = vit
                     labels = c("Alive", "Dead", "Not reported"),
                     "Vital Status") +
   ggtitle("Vital Status") +
-  #scale_x_discrete(labels = NULL, breaks = NULL) + 
-  labs(x = "", y="Percentage") +
+  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y="Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -164,8 +165,7 @@ mal_plots <- ggplot(cancers_mal, aes(x = project, y = percentage, fill = prior_m
                     labels = c("Yes", "No", "Not reported"),
                     "Prior Malignancy") +
   ggtitle("Prior Malignancy") +
-  scale_x_discrete(labels = NULL, breaks = NULL) + 
-  labs(x = "", y ="Percentage") +
+  scale_x_discrete(labels = NULL, breaks = NULL) + labs(x = "", y ="Percentage") +
   scale_y_continuous(labels = scales::percent_format(),
                      breaks = c(0.25, 0.5, 0.75))
 
@@ -199,79 +199,72 @@ months_folowup_plots <- ggplot(cancers_clin, aes(x = project, y = months_to_last
 combined_plots <- 
   sex_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
                                                      plot.title = element_text(hjust = 0.5),
-                                                     legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                     legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   ethnicity_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
                                                            plot.title = element_text(hjust = 0.5),
-                                                           legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                           legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   age_diagn_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
                                                            plot.title = element_text(hjust = 0.5),
-                                                           legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                           legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   vital_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
                                                        plot.title = element_text(hjust = 0.5),
-                                                       legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                       legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   mal_plots + theme_pubclean() + labs_pubr() + theme(legend.position = "right",
                                                      plot.title = element_text(hjust = 0.5),
-                                                     legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                     legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   months_folowup_plots + theme_pubclean() +labs_pubr() + theme(legend.position = "right",
                                                                plot.title = element_text(hjust = 0.5),
-                                                               legend.key.size = unit(0.5, "cm")) +
-  font("title", 19) +
-  font("ylab", size = 15) +
-  font("xlab", size = 17) +
-  font("y.text", size = 20) +
-  font("x.text", size = 15) +
-  font("legend.title", size = 14) +
-  font("legend.text", size = 12) +
+                                                               legend.key.size = unit(0.4, "cm")) +
+  font("title", 17) +
+  font("ylab", size = 13) +
+  font("xlab", size = 15) +
+  font("y.text", size = 18) +
+  font("x.text", size = 13) +
+  font("legend.title", size = 11) +
+  font("legend.text", size = 9) +
   plot_layout(guides = "collect",
-              ncol = 3,
-              nrow = 2
-              # widths = c(5,5,5,5,5,5),
-              # heights = c(25),
-              # align = "center"
-  )
+              ncol = 6,
+              #widths = c(5,5,5,5,5,5),
+              #heights = c(10,10,10,10,10,10),
+              ) + 
+  plot_spacer() 
+
+combined_plots
 
 
-ggsave(filename = "clinical_info.pdf",
-       plot = combined_plots,
-       width = 12,
-       height = 6)
 
-
-print(combined_plots)
-
-dev.off()
