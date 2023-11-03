@@ -46,7 +46,7 @@ KICH_clin <- read.csv("KICH_clin.csv")
 PCPG_clin <- read.csv("PCPG_clin.csv")
 SARC_clin <- read.csv("SARC_clin.csv")
 THYM_clin <- read.csv("THYM_clin.csv")
-GBM_clin <- read.csv("GBM_clin.csv")
+# GBM_clin <- read.csv("GBM_clin.csv")
 
 # select only primary tumor samples
 CHOL_clin <- CHOL_clin[CHOL_clin$sample_type=="Primary Tumor",]
@@ -54,17 +54,17 @@ KICH_clin <- KICH_clin[KICH_clin$sample_type=="Primary Tumor",]
 PCPG_clin <- PCPG_clin[PCPG_clin$sample_type=="Primary Tumor",]
 SARC_clin <- SARC_clin[SARC_clin$sample_type=="Primary Tumor",]
 THYM_clin <- THYM_clin[THYM_clin$sample_type=="Primary Tumor",]
-GBM_clin <- GBM_clin[GBM_clin$sample_type=="Primary Tumor",]
+# GBM_clin <- GBM_clin[GBM_clin$sample_type=="Primary Tumor",]
 
 colnames(CHOL_clin)[11] <- "sex"
 colnames(KICH_clin)[11] <- "sex"
 colnames(PCPG_clin)[11] <- "sex"
 colnames(SARC_clin)[11] <- "sex"
 colnames(THYM_clin)[11] <- "sex"
-colnames(GBM_clin)[11] <- "sex"
+# colnames(GBM_clin)[11] <- "sex"
 
 # merge all cancers
-cancers_clin <- rbind(CHOL_clin, KICH_clin, PCPG_clin, SARC_clin, THYM_clin, GBM_clin)
+cancers_clin <- rbind(CHOL_clin, KICH_clin, PCPG_clin, SARC_clin, THYM_clin)
 
 # change not reported and NA values
 cancers_clin[is.na(cancers_clin)] <- "Not Reported"
@@ -101,7 +101,7 @@ sex_plots <- ggplot(cancers_sex, aes(x = project, y = percentage, fill = sex)) +
                     "Sex") +
   ggtitle("Sex") + labs(y="Percentage", x="") + 
   scale_y_continuous(labels = scales::percent_format(),
-                     breaks = c(0.25, 0.5, 0.75)) +
+                     breaks = c(0.25, 0.5, 0.75))
   
 
 # ETHNICITY
@@ -258,8 +258,8 @@ combined_plots <-
   font("legend.title", size = 11) +
   font("legend.text", size = 9) +
   plot_layout(guides = "collect",
-              ncol = 6,
-              #widths = c(5,5,5,5,5,5),
+              ncol = 3,
+              widths = c(1,1,1,1,1,1),
               #heights = c(10,10,10,10,10,10),
               ) + 
   plot_spacer() 
