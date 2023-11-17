@@ -1,3 +1,10 @@
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+library(tidyr)
+
+# import DEA results
+
 volcano_df <- dataDEGs_CHOL
 volcano_df$Component <- ifelse(volcano_df$gene_name %in% XBP1sign, "XBP1",
                                ifelse(volcano_df$gene_name %in% RIDDsign, "RIDD",
